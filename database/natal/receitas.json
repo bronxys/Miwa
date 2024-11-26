@@ -1,0 +1,304 @@
+[
+    {
+        "nome": "Cookies de Natal",
+        "ingredientes": [
+            "2 xícaras de farinha de trigo",
+            "1/2 colher de chá de fermento em pó",
+            "1/4 colher de chá de sal",
+            "3/4 xícara de manteiga sem sal, em temperatura ambiente",
+            "1 xícara de açúcar",
+            "1 ovo grande",
+            "1 colher de chá de essência de baunilha",
+            "Cobertura a gosto: glacê, confeitos coloridos"
+        ],
+        "preparo": "1. Pré-aqueça o forno a 180°C. Em uma tigela, misture a farinha, o fermento e o sal.\n2. Em outra tigela, bata a manteiga e o açúcar até ficar fofo.\n3. Adicione o ovo e a baunilha, batendo bem.\n4. Aos poucos, acrescente a mistura de farinha até formar uma massa.\n5. Abra a massa, corte em formatos de Natal e asse por 8-10 minutos ou até as bordas dourarem levemente.\n6. Decore com glacê e confeitos após esfriar."
+    },
+    {
+        "nome": "Rabanada Tradicional",
+        "ingredientes": [
+            "4 pães franceses amanhecidos",
+            "2 xícaras de leite",
+            "3 ovos",
+            "1/2 xícara de açúcar",
+            "1 colher de chá de canela em pó",
+            "Óleo para fritar",
+            "Açúcar e canela para polvilhar"
+        ],
+        "preparo": "1. Corte os pães em fatias grossas.\n2. Em uma tigela, misture o leite com o açúcar e a canela.\n3. Em outra tigela, bata os ovos.\n4. Mergulhe as fatias de pão no leite, depois nos ovos, e frite em óleo quente até dourar.\n5. Escorra e passe na mistura de açúcar e canela."
+    },
+    {
+        "nome": "Pavê de Chocolate",
+        "ingredientes": [
+            "1 pacote de biscoito champanhe",
+            "2 xícaras de leite",
+            "1 lata de leite condensado",
+            "1 lata de creme de leite",
+            "2 colheres de sopa de amido de milho",
+            "200g de chocolate meio amargo",
+            "Raspas de chocolate para decorar"
+        ],
+        "preparo": "1. Em uma panela, misture o leite, o leite condensado e o amido de milho, e leve ao fogo médio até engrossar.\n2. Adicione o chocolate meio amargo e mexa até derreter.\n3. Em uma travessa, alterne camadas de biscoito e creme de chocolate.\n4. Leve à geladeira por pelo menos 2 horas. Decore com raspas de chocolate antes de servir."
+        },
+    {
+        "nome": "Panetone Caseiro",
+        "ingredientes": [
+            "4 xícaras de farinha de trigo",
+            "1 xícara de açúcar",
+            "1 xícara de frutas cristalizadas",
+            "1 xícara de uvas-passas",
+            "3 ovos",
+            "1 xícara de leite morno",
+            "100g de manteiga",
+            "1 colher de sopa de fermento biológico seco",
+            "1 colher de chá de essência de panetone"
+        ],
+        "preparo": "1. Em uma tigela, misture o fermento com o leite morno e um pouco de açúcar. Deixe descansar por 10 minutos.\n2. Acrescente a farinha, o açúcar, os ovos, a manteiga e a essência de panetone.\n3. Amasse bem e adicione as frutas cristalizadas e as passas.\n4. Deixe a massa crescer até dobrar de volume, por cerca de 1 hora.\n5. Coloque a massa em formas de panetone e asse em forno preaquecido a 180°C por 40 minutos ou até dourar."
+    },
+    {
+        "nome": "Pernil Assado",
+        "ingredientes": [
+            "1 pernil de porco de aproximadamente 3 kg",
+            "1/2 xícara de azeite",
+            "5 dentes de alho amassados",
+            "1 cebola grande picada",
+            "Suco de 3 limões",
+            "1 xícara de vinho branco",
+            "Sal e pimenta a gosto",
+            "Alecrim e tomilho a gosto"
+        ],
+        "preparo": "1. Tempere o pernil com o alho, a cebola, o suco de limão, o vinho, o azeite, o sal, a pimenta e as ervas.\n2. Deixe marinar por pelo menos 4 horas (ou de um dia para o outro).\n3. Asse em forno preaquecido a 200°C por aproximadamente 3 horas, regando com a marinada para não secar."
+    },
+    {
+        "nome": "Tender ao Molho de Abacaxi",
+        "ingredientes": [
+            "1 tender bolinha",
+            "1 xícara de suco de abacaxi",
+            "1/2 xícara de mel",
+            "1 colher de sopa de mostarda",
+            "Cravos da índia para decorar",
+            "Fatias de abacaxi para decorar"
+        ],
+        "preparo": "1. Faça cortes diagonais no tender e espete os cravos nas junções.\n2. Misture o suco de abacaxi, o mel e a mostarda e pincele o tender com essa mistura.\n3. Asse em forno preaquecido a 180°C por 1 hora, regando ocasionalmente.\n4. Decore com as fatias de abacaxi e sirva."
+    },
+    {
+        "nome": "Farofa Natalina",
+        "ingredientes": [
+            "2 xícaras de farinha de mandioca",
+            "100g de bacon picado",
+            "1 cebola picada",
+            "1/2 xícara de uvas-passas",
+            "1/2 xícara de nozes picadas",
+            "2 colheres de sopa de manteiga",
+            "Sal e pimenta a gosto"
+        ],
+        "preparo": "1. Em uma panela, derreta a manteiga e frite o bacon até dourar.\n2. Adicione a cebola e refogue até ficar transparente.\n3. Acrescente as uvas-passas e as nozes.\n4. Coloque a farinha de mandioca e mexa até ficar dourada. Tempere com sal e pimenta."
+    },
+    {
+        "nome": "Salada Natalina",
+        "ingredientes": [
+            "1 alface americana picada",
+            "1 xícara de rúcula",
+            "1 maçã verde em cubos",
+            "1/2 xícara de nozes picadas",
+            "1/2 xícara de uvas-passas",
+            "Queijo parmesão ralado a gosto",
+            "Molho de sua preferência"
+        ],
+        "preparo": "1. Em uma tigela, misture todos os ingredientes.\n2. Tempere com o molho de sua preferência e finalize com o queijo parmesão."
+    },
+    {
+        "nome": "Arroz à Grega",
+        "ingredientes": [
+            "2 xícaras de arroz",
+            "1 cenoura picada",
+            "1/2 pimentão vermelho picado",
+            "1/2 pimentão verde picado",
+            "1/2 xícara de ervilhas",
+            "1/2 xícara de uvas-passas",
+            "3 xícaras de água",
+            "Sal e azeite a gosto"
+        ],
+        "preparo": "1. Em uma panela, aqueça o azeite e refogue a cenoura e os pimentões.\n2. Adicione o arroz, as ervilhas e as uvas-passas, e misture bem.\n3. Coloque a água e tempere com sal. Cozinhe até o arroz ficar macio."
+    },
+    {
+        "nome": "Bacalhoada de Natal",
+        "ingredientes": [
+            "1 kg de bacalhau dessalgado e desfiado",
+            "3 batatas grandes em rodelas",
+            "1 pimentão vermelho em rodelas",
+            "1 pimentão verde em rodelas",
+            "1 cebola grande em rodelas",
+            "Azeitonas pretas a gosto",
+            "Azeite a gosto"
+        ],
+        "preparo": "1. Em um refratário, faça camadas de batatas, bacalhau, pimentões e cebola.\n2. Regue com bastante azeite e leve ao forno a 180°C por 40 minutos.\n3. Decore com azeitonas e sirva."
+    },
+    {
+        "nome": "Pudim de Leite Condensado",
+        "ingredientes": [
+            "1 lata de leite condensado",
+            "2 medidas da lata de leite",
+            "3 ovos",
+            "1 xícara de açúcar (para caramelizar)"
+        ],
+        "preparo": "1. Derreta o açúcar em uma forma de pudim para caramelizar.\n2. No liquidificador, bata o leite condensado, o leite e os ovos.\n3. Despeje a mistura na forma caramelizada e asse em banho-maria a 180°C por 1 hora. Espere esfriar antes de desenformar."
+    },
+    {
+        "nome": "Torta de Nozes",
+        "ingredientes": [
+            "1 xícara de farinha de trigo",
+            "1/2 xícara de açúcar",
+            "100g de manteiga",
+            "1/2 xícara de nozes picadas",
+            "1 lata de leite condensado",
+            "2 gemas",
+            "1 colher de chá de essência de baunilha"
+        ],
+        "preparo": "1. Misture a farinha, o açúcar e a manteiga até formar uma massa.\n2. Forre o fundo de uma forma de torta com a massa.\n3. Misture as nozes, o leite condensado, as gemas e a baunilha, e despeje sobre a massa.\n4. Asse em forno preaquecido a 180°C por 30 minutos ou até dourar."
+    },
+    {
+        "nome": "Cheesecake de Frutas Vermelhas",
+        "ingredientes": [
+            "200g de biscoito maisena",
+            "100g de manteiga derretida",
+            "400g de cream cheese",
+            "1 lata de leite condensado",
+            "1 colher de chá de essência de baunilha",
+            "1 xícara de frutas vermelhas",
+            "1/2 xícara de açúcar (para a cobertura)"
+        ],
+        "preparo": "1. Triture os biscoitos e misture com a manteiga, formando a base em uma forma.\n2. Bata o cream cheese, o leite condensado e a baunilha até ficar homogêneo, e despeje sobre a base.\n3. Para a cobertura, cozinhe as frutas vermelhas com o açúcar até engrossar. Despeje sobre o cheesecake e leve à geladeira por 4 horas."
+    },
+    {
+        "nome": "Bolo de Frutas Secas",
+        "ingredientes": [
+            "2 xícaras de farinha de trigo",
+            "1/2 xícara de açúcar mascavo",
+            "1/2 xícara de manteiga",
+            "3 ovos",
+            "1 xícara de frutas secas picadas (damasco, figo, tâmaras, etc.)",
+            "1/2 xícara de nozes picadas",
+            "1 colher de chá de fermento em pó",
+            "1 colher de chá de canela em pó",
+            "1/2 xícara de suco de laranja"
+        ],
+        "preparo": "1. Bata o açúcar com a manteiga até formar um creme.\n2. Adicione os ovos, a farinha, o fermento e a canela.\n3. Acrescente as frutas secas, as nozes e o suco de laranja.\n4. Despeje em uma forma untada e asse em forno preaquecido a 180°C por 35 minutos."
+    },
+    {
+        "nome": "Quiche de Alho-Poró e Queijo",
+        "ingredientes": [
+            "1 massa de torta pronta",
+            "1 talo de alho-poró fatiado",
+            "1/2 xícara de queijo parmesão ralado",
+            "1/2 xícara de queijo muçarela ralado",
+            "3 ovos",
+            "1 xícara de creme de leite",
+            "Sal e pimenta a gosto",
+            "Noz-moscada a gosto"
+        ],
+        "preparo": "1. Espalhe a massa em uma forma de torta e reserve.\n2. Em uma tigela, misture o alho-poró, os queijos, os ovos e o creme de leite.\n3. Tempere com sal, pimenta e noz-moscada.\n4. Despeje a mistura na massa e asse em forno preaquecido a 180°C por 30 minutos."
+    },
+    {
+        "nome": "Chester ao Molho de Laranja",
+        "ingredientes": [
+            "1 chester de aproximadamente 3 kg",
+            "1 xícara de suco de laranja",
+            "1/2 xícara de mel",
+            "2 colheres de sopa de molho de soja",
+            "2 colheres de sopa de manteiga",
+            "Sal e pimenta a gosto"
+        ],
+        "preparo": "1. Tempere o chester com sal e pimenta.\n2. Misture o suco de laranja, o mel e o molho de soja.\n3. Pincele o chester com a mistura e coloque pedaços de manteiga por cima.\n4. Asse em forno preaquecido a 180°C por 2 horas, regando de vez em quando com o molho."
+    },
+    {
+        "nome": "Purê de Maçã",
+        "ingredientes": [
+            "4 maçãs descascadas e cortadas em cubos",
+            "1/2 xícara de açúcar",
+            "1/2 xícara de água",
+            "1 pau de canela"
+        ],
+        "preparo": "1. Em uma panela, coloque as maçãs, o açúcar, a água e a canela.\n2. Cozinhe em fogo médio até as maçãs ficarem macias.\n3. Retire o pau de canela e amasse as maçãs até formar um purê.\n4. Sirva como acompanhamento para carnes."
+    },
+    {
+        "nome": "Arroz com Amêndoas",
+        "ingredientes": [
+            "2 xícaras de arroz",
+            "4 xícaras de água",
+            "1/2 xícara de amêndoas laminadas",
+            "1 cebola picada",
+            "2 colheres de sopa de manteiga",
+            "Sal a gosto"
+        ],
+        "preparo": "1. Em uma panela, derreta a manteiga e doure a cebola.\n2. Acrescente o arroz e refogue.\n3. Adicione a água e o sal e cozinhe até a água secar.\n4. Misture as amêndoas antes de servir."
+    },
+    {
+        "nome": "Salpicão de Natal",
+        "ingredientes": [
+            "2 xícaras de frango desfiado",
+            "1 cenoura ralada",
+            "1/2 xícara de ervilha",
+            "1/2 xícara de milho verde",
+            "1 maçã verde picada",
+            "1/2 xícara de uvas-passas",
+            "1/2 xícara de maionese",
+            "Sal e pimenta a gosto",
+            "Batata palha para decorar"
+        ],
+        "preparo": "1. Em uma tigela, misture o frango, a cenoura, a ervilha, o milho, a maçã e as uvas-passas.\n2. Acrescente a maionese e tempere com sal e pimenta.\n3. Misture bem e decore com batata palha antes de servir."
+    },
+    {
+        "nome": "Manjar de Coco com Calda de Ameixa",
+        "ingredientes": [
+            "1 litro de leite",
+            "1 vidro de leite de coco",
+            "1 lata de leite condensado",
+            "1 xícara de amido de milho",
+            "1 xícara de açúcar",
+            "200g de ameixa preta sem caroço",
+            "1/2 xícara de água"
+        ],
+        "preparo": "1. Em uma panela, misture o leite, o leite de coco, o leite condensado e o amido de milho.\n2. Cozinhe em fogo baixo até engrossar.\n3. Para a calda, cozinhe a ameixa com o açúcar e a água até formar uma calda.\n4. Despeje o manjar em uma forma e sirva com a calda de ameixa."
+    },
+    {
+        "nome": "Bacalhau com Natas",
+        "ingredientes": [
+            "500g de bacalhau dessalgado e desfiado",
+            "4 batatas cortadas em cubos",
+            "1 cebola grande picada",
+            "1/2 xícara de creme de leite",
+            "1/2 xícara de leite",
+            "2 colheres de sopa de manteiga",
+            "Sal e pimenta a gosto",
+            "Queijo ralado para gratinar"
+        ],
+        "preparo": "1. Em uma panela, cozinhe as batatas até ficarem macias.\n2. Em outra panela, derreta a manteiga e refogue a cebola e o bacalhau.\n3. Misture as batatas e adicione o creme de leite e o leite.\n4. Tempere com sal e pimenta, coloque em uma forma e cubra com queijo ralado.\n5. Asse em forno preaquecido a 200°C até gratinar."
+    },
+    {
+        "nome": "Tronco de Natal (Bûche de Noël)",
+        "ingredientes": [
+            "5 ovos",
+            "1 xícara de açúcar",
+            "1 xícara de farinha de trigo",
+            "1/2 xícara de chocolate em pó",
+            "1 lata de creme de leite",
+            "200g de chocolate meio amargo",
+            "Açúcar de confeiteiro para decorar"
+        ],
+        "preparo": "1. Bata os ovos com o açúcar até triplicar de volume.\n2. Adicione a farinha e o chocolate em pó, misturando delicadamente.\n3. Asse a massa em uma forma retangular por 15 minutos a 180°C.\n4. Derreta o chocolate com o creme de leite e recheie a massa.\n5. Enrole como rocambole e decore com açúcar de confeiteiro."
+    },
+    {
+        "nome": "Biscoitos de Gengibre",
+        "ingredientes": [
+            "2 xícaras de farinha de trigo",
+            "1 colher de chá de gengibre em pó",
+            "1 colher de chá de canela em pó",
+            "1/2 colher de chá de cravo em pó",
+            "1/2 xícara de manteiga",
+            "3/4 xícara de açúcar mascavo",
+            "1/4 xícara de mel",
+            "1 ovo"
+        ],
+        "preparo": "1. Misture a farinha com o gengibre, a canela e o cravo.\n2. Bata a manteiga com o açúcar e o mel, depois adicione o ovo.\n3. Junte a mistura de farinha e amasse até formar uma massa.\n4. Abra a massa e corte em formatos natalinos.\n5. Asse em forno preaquecido a 180°C por 10-12 minutos."
+    }
+]

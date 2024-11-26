@@ -1,0 +1,24 @@
+{
+          "stanzaId": "C7484452CBF84E8D6BA555D0848E90FD",
+          "participant": "5521974836373@s.whatsapp.net",
+          "quotedMessage": {
+                    "audioMessage": {
+                              "url": "https://mmg.whatsapp.net/v/t62.7117-24/31862974_1028343388773016_5010699492494658288_n.enc?ccb=11-4&oh=01_Q5AaIP-_vbYbNeks8ZrZR45m3_eWuBAlkRh3ZPt17aVjKztX&oe=66BB68FC&_nc_sid=5e03e0&mms3=true",
+                              "mimetype": "audio/ogg; codecs=opus",
+                              "fileSha256": "aN2+QLdh0Ku8pRB8xVnmOtC7B0BCH/HG4vjK7YEAxz0=",
+                              "fileLength": "9591",
+                              "seconds": 4,
+                              "ptt": true,
+                              "mediaKey": "4Z96dgXRVEfK6pPEfK8amfZWn/evKSOcPDkiovyB2vY=",
+                              "fileEncSha256": "nQEoLkG6MtIquMaionJvuU4cD2zf7FSZ7bqJM+59ZCA=",
+                              "directPath": "/v/t62.7117-24/31862974_1028343388773016_5010699492494658288_n.enc?ccb=11-4&oh=01_Q5AaIP-_vbYbNeks8ZrZR45m3_eWuBAlkRh3ZPt17aVjKztX&oe=66BB68FC&_nc_sid=5e03e0",
+                              "mediaKeyTimestamp": "1720968901",
+                              "waveform": "AAAAAAAAAAAAAAAAPQALBQAAAAAAOlhXVVg1O04qJ0o4NkEOEEJTU1JCR0E/LAcDIyQmNVFJUlVYSFBSWS05AA=="
+                    }
+          },
+          "expiration": 86400,
+          "disappearingMode": {
+                    "initiator": "CHANGED_IN_CHAT",
+                    "trigger": "UNKNOWN"
+          }
+}

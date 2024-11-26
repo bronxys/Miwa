@@ -1,0 +1,12 @@
+{
+  "empresas": [
+    {
+      "dono": "5521977181280@s.whatsapp.net",
+      "nome": "bots",
+      "tipo": "basica",
+      "valor": 30000,
+      "produtos": [],
+      "lucro": 1.1e+95
+    }
+  ]
+}

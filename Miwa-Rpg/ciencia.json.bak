@@ -1,0 +1,22 @@
+[
+    {
+        "question": "A água é composta por quais elementos?",
+        "answers": ["Oxigênio e Nitrogênio", "Hidrogênio e Oxigênio", "Carbono e Hidrogênio"],
+        "correctAnswer": "Hidrogênio e Oxigênio"
+    },
+    {
+        "question": "Qual é a força que mantém os planetas em órbita ao redor do Sol?",
+        "answers": ["Força Magnética", "Força Gravitacional", "Força Nuclear"],
+        "correctAnswer": "Força Gravitacional"
+    },
+    {
+        "question": "Qual é o planeta mais próximo do Sol?",
+        "answers": ["Terra", "Vênus", "Mercúrio"],
+        "correctAnswer": "Mercúrio"
+    },
+    {
+        "question": "Qual é a unidade de medida de força no Sistema Internacional?",
+        "answers": ["Newton", "Pascal", "Joule"],
+        "correctAnswer": "Newton"
+    }
+]

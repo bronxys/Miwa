@@ -1,0 +1,74 @@
+{
+    "hashiras": [
+        {
+            "nome": "Giyu Tomioka",
+            "tecnica_respiratoria": "Respiração da Água, Estilo da Água: Fluxo Constante",
+            "rank": "Hashira da Água",
+            "sede": "Kyoto",
+            "descricao": "Giyu Tomioka é conhecido por sua natureza calma e sua grande habilidade com a Espada Nichirin. Ele é um dos Hashiras mais respeitados e poderosos, sendo um dos pilares da Demon Slayer Corps."
+        },
+        {
+            "nome": "Shinobu Kocho",
+            "tecnica_respiratoria": "Respiração dos Insetos, Estilo do Inseto: Borboleta",
+            "rank": "Hashira dos Insetos",
+            "sede": "Tokyo",
+            "descricao": "Shinobu Kocho é conhecida por sua inteligência e habilidade de usar venenos. Ela é uma estrategista talentosa e uma espadachim habilidosa, sendo uma das poucas Hashiras capazes de derrotar um dos Doze Kizuki."
+        },
+        {
+            "nome": "Kyojuro Rengoku",
+            "tecnica_respiratoria": "Respiração do Fogo, Estilo do Fogo: Dança da Chama",
+            "rank": "Hashira do Fogo",
+            "sede": "Kyoto",
+            "descricao": "Kyojuro Rengoku é conhecido por sua incrível força e determinação. Ele é um dos Hashiras mais poderosos e dedicados, sempre disposto a proteger os inocentes e lutar contra os demônios."
+        },
+        {
+            "nome": "Tengen Uzui",
+            "tecnica_respiratoria": "",
+            "rank": "Hashira do Som",
+            "sede": "Desconhecida",
+            "descricao": "Tengen Uzui é conhecido por sua habilidade com múltiplas espadas e sua personalidade excêntrica. Ele é um dos Hashiras mais habilidosos em combate."
+        },
+        {
+            "nome": "Muichiro Tokito",
+            "tecnica_respiratoria": "",
+            "rank": "Hashira da Névoa",
+            "sede": "Desconhecida",
+            "descricao": "Muichiro Tokito era conhecido por sua natureza tranquila e habilidade excepcional com a espada. Ele era um Hashira extremamente talentoso, capaz de enfrentar grandes desafios com calma e determinação."
+        },
+        {
+            "nome": "Gyomei Himejima",
+            "tecnica_respiratoria": "",
+            "rank": "Hashira da Rocha",
+            "sede": "Desconhecida",
+            "descricao": "Gyomei Himejima é conhecido por sua incrível força física e sua habilidade com a Espada Nichirin. Ele é um dos Hashiras mais respeitados e poderosos."
+        },
+        {
+            "nome": "Sanemi Shinazugawa",
+            "tecnica_respiratoria": "",
+            "rank": "Hashira do Vento",
+            "sede": "Desconhecida",
+            "descricao": "Sanemi Shinazugawa é conhecido por sua personalidade agressiva e sua habilidade em combate. Ele é um dos Hashiras mais fortes e determinados da Demon Slayer Corps."
+        },
+        {
+            "nome": "Mitsuri Kanroji",
+            "tecnica_respiratoria": "",
+            "rank": "Hashira do Amor",
+            "sede": "Desconhecida",
+            "descricao": "Mitsuri Kanroji é conhecida por sua personalidade amorosa e sua incrível força física. Ela é uma das Hashiras mais queridas e poderosas."
+        },
+        {
+            "nome": "Obanai Iguro",
+            "tecnica_respiratoria": "",
+            "rank": "Hashira da Serpente",
+            "sede": "Desconhecida",
+            "descricao": "Obanai Iguro é conhecido por sua habilidade com a Espada Nichirin e sua lealdade inabalável. Ele é um dos Hashiras mais dedicados e habilidosos."
+        },
+        {
+            "nome": "Kanao Tsuyuri",
+            "tecnica_respiratoria": "",
+            "rank": "Hashira",
+            "sede": "Desconhecida",
+            "descricao": "Kanao Tsuyuri é uma Hashira talentosa, conhecida por sua determinação e habilidade em combate. Ela se tornou uma Hashira após os eventos do mangá."
+        }
+    ]
+}

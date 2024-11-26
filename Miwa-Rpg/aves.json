@@ -1,0 +1,620 @@
+{
+    "aves": [
+        {
+            "nome_comum": "Sabiá",
+            "nome_cientifico": "Turdus rufiventris",
+            "familia": "Turdidae",
+            "habitat": "Florestas, jardins e parques",
+            "descricao": "O sabiá-laranjeira é uma ave passeriforme da família Turdidae, muito conhecida por seu canto melodioso."
+        },
+        {
+            "nome_comum": "Beija-flor",
+            "nome_cientifico": "Trochilidae",
+            "familia": "Trochilidae",
+            "habitat": "Florestas tropicais, jardins e campos",
+            "descricao": "Os beija-flores são aves da família Trochilidae, conhecidas por sua habilidade de voar em todas as direções."
+        },
+        {
+            "nome_comum": "Arara-azul",
+            "nome_cientifico": "Anodorhynchus hyacinthinus",
+            "familia": "Psittacidae",
+            "habitat": "Florestas e cerrados",
+            "descricao": "Conhecida por sua plumagem azul vibrante e grande porte, é uma das maiores araras."
+        },
+        {
+            "nome_comum": "Arara-vermelha",
+            "nome_cientifico": "Ara chloropterus",
+            "familia": "Psittacidae",
+            "habitat": "Florestas tropicais",
+            "descricao": "Ave grande com plumagem vermelha, azul e verde, famosa pelo comportamento social."
+        },
+        {
+            "nome_comum": "Bem-te-vi",
+            "nome_cientifico": "Pitangus sulphuratus",
+            "familia": "Tyrannidae",
+            "habitat": "Áreas urbanas, florestas e campos abertos",
+            "descricao": "Conhecido por seu canto característico 'bem-te-vi'."
+        },
+        {
+            "nome_comum": "Cardeal",
+            "nome_cientifico": "Paroaria coronata",
+            "familia": "Thraupidae",
+            "habitat": "Florestas e áreas abertas",
+            "descricao": "Pássaro com crista vermelha."
+        },
+        {
+            "nome_comum": "Canário-da-terra",
+            "nome_cientifico": "Sicalis flaveola",
+            "familia": "Thraupidae",
+            "habitat": "Campos abertos e áreas urbanas",
+            "descricao": "Conhecido pelo canto melodioso e plumagem amarela brilhante."
+        },
+        {
+            "nome_comum": "João-de-barro",
+            "nome_cientifico": "Furnarius rufus",
+            "familia": "Furnariidae",
+            "habitat": "Campos abertos e áreas urbanas",
+            "descricao": "Famoso por construir ninhos de barro."
+        },
+        {
+            "nome_comum": "Curió",
+            "nome_cientifico": "Sporophila angolensis",
+            "familia": "Thraupidae",
+            "habitat": "Matas ciliares e capoeiras",
+            "descricao": "Conhecido pelo canto melodioso e repetitivo."
+        },
+        {
+            "nome_comum": "Sabiá-laranjeira",
+            "nome_cientifico": "Turdus rufiventris",
+            "familia": "Turdidae",
+            "habitat": "Florestas, parques e jardins",
+            "descricao": "Ave símbolo do Brasil, famosa pelo canto melodioso."
+        },
+        {
+            "nome_comum": "Periquito",
+            "nome_cientifico": "Brotogeris tirica",
+            "familia": "Psittacidae",
+            "habitat": "Florestas e áreas urbanas",
+            "descricao": "Ave pequena e colorida, frequentemente vista em grupos."
+        },
+        {
+            "nome_comum": "Tucano-toco",
+            "nome_cientifico": "Ramphastos toco",
+            "familia": "Ramphastidae",
+            "habitat": "Florestas e cerrados",
+            "descricao": "Conhecido pelo grande bico colorido."
+        },
+        {
+            "nome_comum": "Maritaca",
+            "nome_cientifico": "Pionus maximiliani",
+            "familia": "Psittacidae",
+            "habitat": "Florestas e áreas urbanas",
+            "descricao": "Ave de médio porte, conhecida pelo comportamento barulhento."
+        },
+        {
+            "nome_comum": "Sabiá-do-campo",
+            "nome_cientifico": "Mimus saturninus",
+            "familia": "Mimidae",
+            "habitat": "Áreas abertas e urbanas",
+            "descricao": "Ave adaptável, encontrada em diversos habitats."
+        },
+        {
+            "nome_comum": "Gavião-carijó",
+            "nome_cientifico": "Rupornis magnirostris",
+            "familia": "Accipitridae",
+            "habitat": "Florestas, campos e áreas urbanas",
+            "descricao": "Ave de rapina de médio porte, comum em áreas urbanas."
+        },
+        {
+            "nome_comum": "Papagaio-verdadeiro",
+            "nome_cientifico": "Amazona aestiva",
+            "familia": "Psittacidae",
+            "habitat": "Florestas e áreas urbanas",
+            "descricao": "Famoso pela habilidade de imitar sons e palavras."
+        },
+        {
+            "nome_comum": "Anu-preto",
+            "nome_cientifico": "Crotophaga ani",
+            "familia": "Cuculidae",
+            "habitat": "Campos e áreas abertas",
+            "descricao": "Ave preta conhecida por andar em grupos e seu canto estridente."
+        },
+        {
+            "nome_comum": "Coleiro",
+            "nome_cientifico": "Sporophila caerulescens",
+            "familia": "Thraupidae",
+            "habitat": "Campos e áreas urbanas",
+            "descricao": "Pequena ave canora, popular entre criadores."
+        },
+        {
+            "nome_comum": "Pica-pau-de-banda-branca",
+            "nome_cientifico": "Dryocopus lineatus",
+            "familia": "Picidae",
+            "habitat": "Florestas e áreas abertas",
+            "descricao": "Conhecido pelo comportamento de perfurar troncos de árvores."
+        },
+        {
+            "nome_comum": "Suiriri",
+            "nome_cientifico": "Tyrannus melancholicus",
+            "familia": "Tyrannidae",
+            "habitat": "Campos e áreas abertas",
+            "descricao": "Ave de porte médio, conhecida por sua postura ereta."
+        },
+        {
+            "nome_comum": "Tico-tico",
+            "nome_cientifico": "Zonotrichia capensis",
+            "familia": "Passerellidae",
+            "habitat": "Áreas abertas e urbanas",
+            "descricao": "Ave pequena e comum, reconhecida pelo canto simples."
+        },
+        {
+            "nome_comum": "Uirapuru",
+            "nome_cientifico": "Cyphorhinus arada",
+            "familia": "Troglodytidae",
+            "habitat": "Florestas tropicais",
+            "descricao": "Conhecido pelo canto melodioso e complexo."
+        },
+        {
+            "nome_comum": "Anu-branco",
+            "nome_cientifico": "Guira guira",
+            "familia": "Cuculidae",
+            "habitat": "Campos e áreas abertas",
+            "descricao": "Ave branca com cauda longa e canto estridente."
+        },
+        {
+            "nome_comum": "Jacu",
+            "nome_cientifico": "Penelope obscura",
+            "familia": "Cracidae",
+            "habitat": "Florestas tropicais",
+            "descricao": "Ave de grande porte, conhecida pelo comportamento arisco."
+        },
+        {
+            "nome_comum": "Juriti",
+            "nome_cientifico": "Leptotila verreauxi",
+            "familia": "Columbidae",
+            "habitat": "Florestas e áreas abertas",
+            "descricao": "Pomba de médio porte, conhecida pelo canto suave."
+        },
+        {
+            "nome_comum": "Canário-da-amazônia",
+            "nome_cientifico": "Sicalis columbiana",
+            "familia": "Thraupidae",
+            "habitat": "Florestas e áreas abertas",
+            "descricao": "Ave canora de pequeno porte, encontrada na Amazônia."
+        },
+        {
+            "nome_comum": "Guará",
+            "nome_cientifico": "Eudocimus ruber",
+            "familia": "Threskiornithidae",
+            "habitat": "Manguezais e áreas alagadas",
+            "descricao": "Ave de plumagem vermelha vibrante, encontrada em áreas alagadas."
+        },
+{
+            "nome_comum": "Falcão-peregrino",
+            "nome_cientifico": "Falco peregrinus",
+            "familia": "Falconidae",
+            "habitat": "Áreas abertas e montanhas",
+            "descricao": "Conhecido por ser o animal mais rápido do mundo, capaz de atingir altas velocidades em voo."
+        },
+        {
+            "nome_comum": "Coruja-buraqueira",
+            "nome_cientifico": "Athene cunicularia",
+            "familia": "Strigidae",
+            "habitat": "Campos abertos e áreas urbanas",
+            "descricao": "Ave noturna que vive em buracos no solo, comum em áreas abertas."
+        },
+        {
+            "nome_comum": "Galo-da-serra",
+            "nome_cientifico": "Rupicola rupicola",
+            "familia": "Cotingidae",
+            "habitat": "Florestas tropicais",
+            "descricao": "Conhecido pela plumagem laranja brilhante e pela crista arredondada dos machos."
+        },
+        {
+            "nome_comum": "Pavão",
+            "nome_cientifico": "Pavo cristatus",
+            "familia": "Phasianidae",
+            "habitat": "Florestas e áreas abertas",
+            "descricao": "Famoso pelas penas longas e coloridas dos machos, usadas em exibições de acasalamento."
+        },
+        {
+            "nome_comum": "Gaivota",
+            "nome_cientifico": "Larus dominicanus",
+            "familia": "Laridae",
+            "habitat": "Costas e áreas próximas a corpos d'água",
+            "descricao": "Ave marinha comum em costas e áreas próximas a corpos d'água, conhecida pelo comportamento oportunista."
+        },
+        {
+            "nome_comum": "Garça-branca-grande",
+            "nome_cientifico": "Ardea alba",
+            "familia": "Ardeidae",
+            "habitat": "Áreas alagadas, manguezais e margens de rios",
+            "descricao": "Ave de grande porte, encontrada em áreas alagadas, conhecida pela plumagem branca e postura elegante."
+        },
+        {
+            "nome_comum": "João-bobo",
+            "nome_cientifico": "Nystalus chacuru",
+            "familia": "Bucconidae",
+            "habitat": "Florestas e áreas abertas",
+            "descricao": "Ave de pequeno porte com comportamento curioso e canto característico."
+        },
+        {
+    "nome_comum": "Rolinha",
+    "nome_cientifico": "Columbina talpacoti",
+    "familia": "Columbidae",
+    "habitat": "Áreas abertas, campos e áreas urbanas",
+    "descricao": "Ave pequena e comum, conhecida pelo canto suave e presença frequente em áreas urbanas."
+},
+   {
+        "nome_comum": "Canário-da-terra",
+        "nome_cientifico": "Sicalis flaveola",
+        "familia": "Thraupidae",
+        "habitat": "Campos abertos e áreas urbanas",
+        "descricao": "Conhecido pelo canto melodioso e plumagem amarela brilhante."
+    },
+    {
+        "nome_comum": "João-de-barro",
+        "nome_cientifico": "Furnarius rufus",
+        "familia": "Furnariidae",
+        "habitat": "Campos abertos e áreas urbanas",
+        "descricao": "Famoso por construir ninhos de barro."
+    },
+    {
+        "nome_comum": "Curió",
+        "nome_cientifico": "Sporophila angolensis",
+        "familia": "Thraupidae",
+        "habitat": "Matas ciliares e capoeiras",
+        "descricao": "Conhecido pelo canto melodioso e repetitivo."
+    },
+    {
+        "nome_comum": "Sabiá-laranjeira",
+        "nome_cientifico": "Turdus rufiventris",
+        "familia": "Turdidae",
+        "habitat": "Florestas, parques e jardins",
+        "descricao": "Ave símbolo do Brasil, famosa pelo canto melodioso."
+    },
+    {
+        "nome_comum": "Periquito",
+        "nome_cientifico": "Brotogeris tirica",
+        "familia": "Psittacidae",
+        "habitat": "Florestas e áreas urbanas",
+        "descricao": "Ave pequena e colorida, frequentemente vista em grupos."
+    },
+    {
+        "nome_comum": "Tucano-toco",
+        "nome_cientifico": "Ramphastos toco",
+        "familia": "Ramphastidae",
+        "habitat": "Florestas e cerrados",
+        "descricao": "Conhecido pelo grande bico colorido."
+    },
+    {
+        "nome_comum": "Maritaca",
+        "nome_cientifico": "Pionus maximiliani",
+        "familia": "Psittacidae",
+        "habitat": "Florestas e áreas urbanas",
+        "descricao": "Ave de médio porte, conhecida pelo comportamento barulhento."
+    },
+    {
+        "nome_comum": "Sabiá-do-campo",
+        "nome_cientifico": "Mimus saturninus",
+        "familia": "Mimidae",
+        "habitat": "Áreas abertas e urbanas",
+        "descricao": "Ave adaptável, encontrada em diversos habitats."
+    },
+    {
+        "nome_comum": "Gavião-carijó",
+        "nome_cientifico": "Rupornis magnirostris",
+        "familia": "Accipitridae",
+        "habitat": "Florestas, campos e áreas urbanas",
+        "descricao": "Ave de rapina de médio porte, comum em áreas urbanas."
+    },
+    {
+        "nome_comum": "Papagaio-verdadeiro",
+        "nome_cientifico": "Amazona aestiva",
+        "familia": "Psittacidae",
+        "habitat": "Florestas e áreas urbanas",
+        "descricao": "Famoso pela habilidade de imitar sons e palavras."
+    },
+    {
+        "nome_comum": "Anu-preto",
+        "nome_cientifico": "Crotophaga ani",
+        "familia": "Cuculidae",
+        "habitat": "Campos e áreas abertas",
+        "descricao": "Ave preta conhecida por andar em grupos e seu canto estridente."
+    },
+    {
+        "nome_comum": "Coleiro",
+        "nome_cientifico": "Sporophila caerulescens",
+        "familia": "Thraupidae",
+        "habitat": "Campos e áreas urbanas",
+        "descricao": "Pequena ave canora, popular entre criadores."
+    },
+    {
+        "nome_comum": "Pica-pau-de-banda-branca",
+        "nome_cientifico": "Dryocopus lineatus",
+        "familia": "Picidae",
+        "habitat": "Florestas e áreas abertas",
+        "descricao": "Conhecido pelo comportamento de perfurar troncos de árvores."
+    },
+    {
+        "nome_comum": "Suiriri",
+        "nome_cientifico": "Tyrannus melancholicus",
+        "familia": "Tyrannidae",
+        "habitat": "Campos e áreas abertas",
+        "descricao": "Ave de porte médio, conhecida por sua postura ereta."
+    },
+    {
+        "nome_comum": "Tico-tico",
+        "nome_cientifico": "Zonotrichia capensis",
+        "familia": "Passerellidae",
+        "habitat": "Áreas abertas e urbanas",
+        "descricao": "Ave pequena e comum, reconhecida pelo canto simples."
+    },
+    {
+        "nome_comum": "Uirapuru",
+        "nome_cientifico": "Cyphorhinus arada",
+        "familia": "Troglodytidae",
+        "habitat": "Florestas tropicais",
+        "descricao": "Conhecido pelo canto melodioso e complexo."
+    },
+    {
+        "nome_comum": "Anu-branco",
+        "nome_cientifico": "Guira guira",
+        "familia": "Cuculidae",
+        "habitat": "Campos e áreas abertas",
+        "descricao": "Ave branca com cauda longa e canto estridente."
+    },
+    {
+        "nome_comum": "Jacu",
+        "nome_cientifico": "Penelope obscura",
+        "familia": "Cracidae",
+        "habitat": "Florestas tropicais",
+        "descricao": "Ave de grande porte, conhecida pelo comportamento arisco."
+    },
+    {
+        "nome_comum": "Juriti",
+        "nome_cientifico": "Leptotila verreauxi",
+        "familia": "Columbidae",
+        "habitat": "Florestas e áreas abertas",
+        "descricao": "Pomba de médio porte, conhecida pelo canto suave."
+    },
+    {
+        "nome_comum": "Canário-da-amazônia",
+        "nome_cientifico": "Sicalis columbiana",
+        "familia": "Thraupidae",
+        "habitat": "Florestas e áreas abertas",
+        "descricao": "Ave canora de pequeno porte, encontrada na Amazônia."
+    },
+    {
+        "nome_comum": "Guará",
+        "nome_cientifico": "Eudocimus ruber",
+        "familia": "Threskiornithidae",
+        "habitat": "Manguezais e áreas alagadas",
+        "descricao": "Ave de plumagem vermelha vibrante, encontrada em áreas alagadas."
+    },
+    {
+        "nome_comum": "Falcão-peregrino",
+        "nome_cientifico": "Falco peregrinus",
+        "familia": "Falconidae",
+        "habitat": "Áreas abertas e montanhas",
+        "descricao": "Conhecido por ser o animal mais rápido do mundo, capaz de atingir altas velocidades em voo."
+    },
+    {
+        "nome_comum": "Coruja-buraqueira",
+        "nome_cientifico": "Athene cunicularia",
+        "familia": "Strigidae",
+        "habitat": "Campos abertos e áreas urbanas",
+        "descricao": "Ave noturna que vive em buracos no solo, comum em áreas abertas."
+    },
+    {
+        "nome_comum": "Galo-da-serra",
+        "nome_cientifico": "Rupicola rupicola",
+        "familia": "Cotingidae",
+        "habitat": "Florestas tropicais",
+        "descricao": "Conhecido pela plumagem laranja brilhante e pela crista arredondada dos machos."
+    },
+    {
+        "nome_comum": "Pavão",
+        "nome_cientifico": "Pavo cristatus",
+        "familia": "Phasianidae",
+        "habitat": "Florestas e áreas abertas",
+        "descricao": "Famoso pelas penas longas e coloridas dos machos, usadas em exibições de acasalamento."
+    },
+    {
+        "nome_comum": "Gaivota",
+        "nome_cientifico": "Larus dominicanus",
+        "familia": "Laridae",
+        "habitat": "Costas e áreas próximas a corpos d'água",
+        "descricao": "Ave marinha comum em costas e áreas próximas a corpos d'água, conhecida pelo comportamento oportunista."
+    },
+    {
+    "nome_comum": "Papagaio",
+    "nome_cientifico": "Amazona aestiva",
+    "familia": "Psittacidae",
+    "habitat": "Florestas tropicais e subtropicais",
+    "descricao": "Famoso pela habilidade de imitar sons e palavras, encontrado em várias regiões do Brasil."
+},
+{
+    "nome_comum": "Calopsita",
+    "nome_cientifico": "Nymphicus hollandicus",
+    "familia": "Cacatuidae",
+    "habitat": "Regiões semiáridas da Austrália",
+    "descricao": "Ave de estimação popular, reconhecida pelo penacho e comportamento social."
+},
+{
+    "nome_comum": "Caturra",
+    "nome_cientifico": "Nymphicus hollandicus",
+    "familia": "Cacatuidae",
+    "habitat": "Regiões semiáridas da Austrália",
+    "descricao": "Pequena ave de estimação, conhecida por seu penacho ereto e bochechas laranjas."
+},
+{
+    "nome_comum": "Pardal-doméstico",
+    "nome_cientifico": "Passer domesticus",
+    "familia": "Passeridae",
+    "habitat": "Áreas urbanas e rurais",
+    "descricao": "Ave pequena e robusta, comum em áreas urbanas."
+},
+{
+    "nome_comum": "Pardal-egípcio",
+    "nome_cientifico": "Passer simplex",
+    "familia": "Passeridae",
+    "habitat": "Desertos e áreas semiáridas",
+    "descricao": "Ave pequena adaptada a habitats áridos."
+},
+{
+    "nome_comum": "Pardal-italiano",
+    "nome_cientifico": "Passer italiae",
+    "familia": "Passeridae",
+    "habitat": "Áreas urbanas e rurais",
+    "descricao": "Ave pequena, encontrada principalmente na Itália, com plumagem semelhante ao pardal-comum."
+},
+{
+    "nome_comum": "Pardal-espanhol",
+    "nome_cientifico": "Passer hispaniolensis",
+    "familia": "Passeridae",
+    "habitat": "Áreas urbanas e rurais",
+    "descricao": "Semelhante ao pardal-comum, mas com padrões de plumagem mais marcados."
+},
+{
+    "nome_comum": "Pardal-francês",
+    "nome_cientifico": "Passer hispaniolensis",
+    "familia": "Passeridae",
+    "habitat": "Áreas urbanas e rurais",
+    "descricao": "Semelhante ao pardal-comum, mas com padrões de plumagem mais marcados."
+},
+{
+    "nome_comum": "Pardal-montês",
+    "nome_cientifico": "Passer montanus",
+    "familia": "Passeridae",
+    "habitat": "Campos e áreas urbanas",
+    "descricao": "Semelhante ao pardal-comum, mas com uma mancha preta na bochecha."
+},
+{
+    "nome_comum": "Pisco-de-peito-azul",
+    "nome_cientifico": "Luscinia svecica",
+    "familia": "Muscicapidae",
+    "habitat": "Áreas úmidas e florestas",
+    "descricao": "Ave pequena e colorida, conhecida pelo peito azul brilhante dos machos."
+},
+{
+    "nome_comum": "Toutinegra-de-barrete",
+    "nome_cientifico": "Sylvia atricapilla",
+    "familia": "Sylviidae",
+    "habitat": "Florestas, parques e jardins",
+    "descricao": "Pequena ave canora, reconhecida pela 'barrete' preta dos machos."
+},
+{
+    "nome_comum": "Melro-preto",
+    "nome_cientifico": "Turdus merula",
+    "familia": "Turdidae",
+    "habitat": "Florestas, parques e jardins",
+    "descricao": "Conhecido pelo canto melodioso e plumagem preta do macho."
+},
+{
+    "nome_comum": "Pardal-comum",
+    "nome_cientifico": "Passer domesticus",
+    "familia": "Passeridae",
+    "habitat": "Áreas urbanas e rurais",
+    "descricao": "Ave pequena e robusta, comum em áreas urbanas."
+},
+    {
+        "nome_comum": "Águia-cobreira",
+        "nome_cientifico": "Circaetus gallicus",
+        "familia": "Accipitridae",
+        "habitat": "Áreas abertas e arborizadas",
+        "descricao": "Ave de rapina que se alimenta principalmente de cobras, encontrada na Europa e África."
+    },
+    {
+        "nome_comum": "Águia-chilena",
+        "nome_cientifico": "Geranoaetus melanoleucus",
+        "familia": "Accipitridae",
+        "habitat": "Regiões montanhosas e abertas",
+        "descricao": "Ave de rapina encontrada na América do Sul, conhecida pela plumagem branca na cabeça e cauda."
+    },
+    {
+        "nome_comum": "Águia-pescadora",
+        "nome_cientifico": "Pandion haliaetus",
+        "familia": "Pandionidae",
+        "habitat": "Áreas costeiras e próximas a água doce",
+        "descricao": "Ave de rapina especializada em pescar, encontrada em regiões próximas a água."
+    },
+    {
+        "nome_comum": "Águia-real",
+        "nome_cientifico": "Aquila chrysaetos",
+        "familia": "Accipitridae",
+        "habitat": "Montanhas e áreas abertas",
+        "descricao": "Uma das maiores águias, encontrada em diversas regiões do mundo."
+    },
+    {
+        "nome_comum": "Águia-de-cabeça-branca",
+        "nome_cientifico": "Haliaeetus leucocephalus",
+        "familia": "Accipitridae",
+        "habitat": "Regiões próximas a água",
+        "descricao": "Ave de rapina símbolo dos Estados Unidos, conhecida pela plumagem branca na cabeça."
+    },
+    {
+    "nome_comum": "Águia-amazônica",
+    "nome_cientifico": "Harpyhaliaetus coronatus",
+    "familia": "Accipitridae",
+    "habitat": "Florestas tropicais da Amazônia",
+    "descricao": "Ave de rapina encontrada na região amazônica, conhecida pela envergadura e garras poderosas."
+},
+{
+    "nome_comum": "Águia",
+    "nome_cientifico": "Aquila sp.",
+    "familia": "Accipitridae",
+    "habitat": "Diversos habitats, dependendo da espécie",
+    "descricao": "Ave de rapina de grande porte, conhecida pela visão aguçada e voos majestosos."
+},
+{
+    "nome_comum": "Pica-pau",
+    "nome_cientifico": "Picidae",
+    "familia": "Picidae",
+    "habitat": "Florestas e áreas arborizadas",
+    "descricao": "Ave conhecida pela capacidade de tamborilar em troncos de árvores em busca de alimento e para demarcar território."
+},
+{
+    "nome_comum": "Gavião",
+    "nome_cientifico": "Accipitridae",
+    "familia": "Accipitridae",
+    "habitat": "Diversos habitats, dependendo da espécie",
+    "descricao": "Ave de rapina encontrada em diversos ambientes, conhecida pela visão aguçada e garras afiadas."
+},
+{
+    "nome_comum": "Coruja",
+    "nome_cientifico": "Strigiformes",
+    "familia": "Strigidae",
+    "habitat": "Diversos habitats, dependendo da espécie",
+    "descricao": "Ave de rapina noturna, conhecida pela visão aguçada e hábitos silenciosos de voo."
+},
+{
+    "nome_comum": "Arara-vermelha",
+    "nome_cientifico": "Ara chloropterus",
+    "familia": "Psittacidae",
+    "habitat": "Florestas tropicais e cerrados",
+    "descricao": "Conhecida pela plumagem vermelha vibrante, é uma das maiores araras do Brasil."
+},
+{
+    "nome_comum": "Tucano",
+    "nome_cientifico": "Ramphastidae",
+    "familia": "Ramphastidae",
+    "habitat": "Florestas tropicais",
+    "descricao": "Ave colorida, conhecida pelo bico grande e colorido, encontrado principalmente na América Central e do Sul."
+},
+{
+    "nome_comum": "Pombo",
+    "nome_cientifico": "Columba livia",
+    "familia": "Columbidae",
+    "habitat": "Áreas urbanas e rurais",
+    "descricao": "Ave comum em áreas urbanas, conhecida pela capacidade de se adaptar a ambientes modificados pelo homem."
+},
+{
+    "nome_comum": "Urubu",
+    "nome_cientifico": "Cathartidae",
+    "familia": "Cathartidae",
+    "habitat": "Diversos habitats, dependendo da espécie",
+    "descricao": "Ave necrófaga encontrada em várias regiões do Brasil, conhecida pela plumagem escura e habilidade de planar por longos períodos."
+}
+    ]
+}

@@ -1,0 +1,33 @@
+{
+  "prefixo": ".",
+  "NumeroDono": "5516994232898",
+  "nomedono": "@𝚆𝚊𝚜𝚞𝚛𝚎𝚇𝟽 ❯_",
+  "nomebot": "MIWA - BOT V4 ©",
+  "dono1": ".",
+  "dono2": ".",
+  "dono3": ".",
+  "dono4": ".",
+  "dono5": ".",
+  "dono6": ".",
+  "modoaluguel": true,
+  "valor1": {
+    "preco": "10",
+    "dias": 30
+  },
+  "valor2": {
+    "preco": "20",
+    "dias": 60
+  },
+  "valor3": {
+    "preco": "30",
+    "dias": 90
+  },
+  "valor4": {
+    "preco": "40",
+    "dias": 120
+  },
+  "valor5": {
+    "preco": "50",
+    "dias": 150
+  }
+}

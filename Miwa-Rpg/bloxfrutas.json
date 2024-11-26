@@ -1,0 +1,462 @@
+[
+    {
+      "Nome": "Lança de Fogo",
+      "Tipo": "Logia",
+      "Despertar": true,
+      "Habilidades": [
+        "Ataques de fogo",
+        "Voo",
+        "Criar estruturas de fogo"
+      ]
+    },
+    {
+      "Nome": "Gelo",
+      "Tipo": "Logia",
+      "Despertar": true,
+      "Habilidades": [
+        "Ataques de gelo",
+        "Congelar inimigos",
+        "Criar estruturas de gelo"
+      ]
+    },
+    {
+      "Nome": "Raio",
+      "Tipo": "Logia",
+      "Despertar": true,
+      "Habilidades": [
+        "Ataques de raio",
+        "Teletransporte",
+        "Criar estruturas de raio"
+      ]
+    },
+    {
+      "Nome": "Magma",
+      "Tipo": "Logia",
+      "Despertar": true,
+      "Habilidades": [
+        "Ataques de magma",
+        "Voo",
+        "Criar estruturas de magma"
+      ]
+    },
+    {
+      "Nome": "Tremor",
+      "Tipo": "Paramecia",
+      "Despertar": true,
+      "Habilidades": [
+        "Ataques de terra",
+        "Criar terremotos",
+        "Controlar a terra"
+      ]
+    },
+    {
+      "Nome": "Controle de Areia",
+      "Tipo": "Paramecia",
+      "Despertar": true,
+      "Habilidades": [
+        "Ataques de areia",
+        "Criar tempestades de areia",
+        "Controlar a areia"
+      ]
+    },
+    {
+      "Nome": "Iluminação",
+      "Tipo": "Paramecia",
+      "Despertar": true,
+      "Habilidades": [
+        "Ataques de luz",
+        "Voo",
+        "Criar estruturas de luz"
+      ]
+    },
+    {
+      "Nome": "Escuridão",
+      "Tipo": "Paramecia",
+      "Despertar": true,
+      "Habilidades": [
+        "Ataques de escuridão",
+        "Teletransporte",
+        "Criar estruturas de escuridão"
+      ]
+    },
+    {
+      "Nome": "Fumaça",
+      "Tipo": "Logia",
+      "Despertar": false,
+      "Habilidades": [
+        "Ataques de fumaça",
+        "Voo",
+        "Criar estruturas de fumaça"
+      ]
+    },
+    {
+ "Nome": "Kitsune",
+ "Tipo": "Zoan",
+ "Despertar": true,
+ "Habilidades": [
+ "Transformação em raposa",
+ "Ataques de raposa",
+ "Aumento da velocidade e agilidade"
+ ]
+},
+{
+ "Nome": "Leopard",
+ "Tipo": "Zoan",
+ "Despertar": false,
+ "Habilidades": [
+ "Transformação em leopardo",
+ "Ataques de leopardo",
+ "Aumento da força e velocidade"
+ ]
+},
+{
+ "Nome": "Dragon",
+ "Tipo": "Zoan",
+ "Despertar": true,
+ "Habilidades": [
+ "Transformação em dragão",
+ "Ataques de dragão",
+ "Voo"
+ ]
+},
+{
+ "Nome": "Kilo",
+ "Tipo": "Paramecia",
+ "Despertar": false,
+ "Habilidades": [
+ "Controle do peso",
+ "Aumento da força",
+ "Criação de objetos pesados"
+ ]
+},
+{
+ "Nome": "Flame",
+ "Tipo": "Logia",
+ "Despertar": true,
+ "Habilidades": [
+  "Transformação em fogo",
+  "Ataques de fogo",
+  "Imunidade ao fogo",
+  "Aumento da força física"
+ ]
+},
+{
+ "Nome": "Phoenix",
+ "Tipo": "Zoan Mítica",
+ "Despertar": true,
+ "Habilidades": [
+  "Transformação em fênix",
+  "Voo",
+  "Cura",
+  "Reencarnação"
+ ]
+},
+{
+ "Nome": "Spider",
+ "Tipo": "Zoan",
+ "Despertar": false,
+ "Habilidades": [
+  "Transformação em aranha",
+  "Escalada em paredes",
+  "Produção de teias",
+  "Aumento da agilidade"
+ ]
+},
+{
+ "Nome": "Falcão",
+ "Tipo": "Zoan",
+ "Despertar": false,
+ "Habilidades": [
+  "Transformação em falcão",
+  "Voo",
+  "Visão aguçada",
+  "Ataques rápidos"
+ ]
+},
+{
+ "Nome": "Areia",
+ "Tipo": "Logia",
+ "Despertar": false,
+ "Habilidades": [
+  "Transformação em areia",
+  "Controle da areia",
+  "Criação de tempestades de areia",
+  "Viagem através da areia"
+ ]
+},
+{
+ "Nome": "Rocket",
+ "Tipo": "Zoan",
+ "Despertar": false,
+ "Habilidades": [
+ "Transformação em um foguete",
+ "Ataques de propulsão",
+ "Voo"
+ ]
+},
+{
+ "Nome": "Gravity",
+ "Tipo": "Logia",
+ "Despertar": true,
+ "Habilidades": [
+ "Controle da gravidade",
+ "Manipulação de objetos e pessoas",
+ "Criação de campos gravitacionais"
+ ]
+},
+{
+ "Nome": "Veneno",
+ "Tipo": "Paramecia",
+ "Despertar": false,
+ "Habilidades": [
+ "Produção e manipulação de veneno",
+ "Ataques venenosos",
+ "Imunidade a venenos"
+ ]
+},
+{
+ "Nome": "Mamute",
+ "Tipo": "Zoan",
+ "Despertar": false,
+ "Habilidades": [
+ "Transformação em um mamute",
+ "Ataques de força bruta",
+ "Aumento da resistência"
+ ]
+},
+{
+ "Nome": "Spirit",
+ "Tipo": "Paramecia",
+ "Despertar": false,
+ "Habilidades": [
+ "Manipulação da alma",
+ "Ataques espirituais",
+ "Imunidade a ataques físicos"
+ ]
+},
+{
+ "Nome": "Massa",
+ "Tipo": "Logia",
+ "Despertar": true,
+ "Habilidades": [
+ "Controle da massa",
+ "Manipulação de objetos e pessoas",
+ "Criação de campos de massa"
+ ]
+},
+{
+ "Nome": "Buddha",
+ "Tipo": "Zoan",
+ "Despertar": true,
+ "Habilidades": [
+ "Transformação em um Buda gigante",
+ "Ataques de energia",
+ "Cura e regeneração"
+ ]
+},
+{
+ "Nome": "Terremoto",
+ "Tipo": "Paramecia",
+ "Despertar": false,
+ "Habilidades": [
+ "Controle sobre a terra",
+ "Criação de terremotos",
+ "Ataques de perfuração"
+ ]
+},
+{
+ "Nome": "Lite",
+ "Tipo": "Logia",
+ "Despertar": false,
+ "Habilidades": [
+ "Transformação em luz",
+ "Ataques de luz",
+ "Voo"
+ ]
+},
+  {
+    "Nome": "Mola",
+    "Tipo": "Paramecia",
+    "Despertar": true,
+    "Habilidades": [
+      "Transformação em mola",
+      "Saltos poderosos",
+      "Ataques de longo alcance com mola",
+      "Despertar: Aumento de força e velocidade, criação de plataformas de mola"
+    ]
+  },
+{
+ "Nome": "T-Rex",
+ "Tipo": "Zoan",
+ "Despertar": true,
+ "Habilidades": [
+  "Transformação em T-Rex",
+  "Aumento de força e resistência",
+  "Ataques corpo a corpo poderosos",
+  "Habilidade de lançar bolas de fogo",
+  "Despertar: Transformação em T-Rex gigante com ainda mais força e habilidades"
+ ]
+},
+
+
+{
+ "Nome": "TRex",
+ "Tipo": "Zoan",
+ "Despertar": true,
+ "Habilidades": [
+  "Transformação em T-Rex",
+  "Aumento de força e resistência",
+  "Ataques corpo a corpo poderosos",
+  "Habilidade de lançar bolas de fogo",
+  "Despertar: Transformação em T-Rex gigante com ainda mais força e habilidades"
+ ]
+},
+
+
+{
+ "Nome": "Rumble",
+ "Tipo": "Logia",
+ "Despertar": true,
+ "Habilidades": [
+  "Transformação em eletricidade",
+  "Ataques elétricos",
+  "Voo",
+  "Aumento de velocidade",
+  "Stun em inimigos"
+ ]
+},
+
+{
+ "Nome": "Gura",
+ "Tipo": "Paramecia",
+ "Despertar": true,
+ "Habilidades": [
+  "Controle sobre terremotos",
+  "Criação de ondas de choque",
+  "Ataques de terra",
+  "Aumento de força",
+  "Dano em área"
+ ]
+},
+
+{
+ "Nome": "Soul",
+ "Tipo": "Paramecia",
+ "Despertar": false,
+ "Habilidades": [
+  "Roubo de almas",
+  "Cura com almas",
+  "Invocação de almas",
+  "Aumento de vida",
+  "Debuff em inimigos"
+ ]
+},
+
+{
+ "Nome": "Venom",
+ "Tipo": "Zoan",
+ "Despertar": true,
+ "Habilidades": [
+  "Transformação em cobra venenosa",
+  "Ataques venenosos",
+  "Aumento de agilidade",
+  "Invisibilidade",
+  "Dano residual em inimigos"
+ ]
+},
+  {
+    "Nome": "Bomba",
+    "Tipo": "Logia",
+    "Despertar": true,
+    "Habilidades": [
+      "Transformação em bomba",
+      "Explosões poderosas",
+      "Imunidade a explosões",
+      "Despertar: Controle sobre explosões, criação de bombas de diferentes tamanhos"
+    ]
+  },
+  {
+    "Nome": "Amor",
+    "Tipo": "Paramecia",
+    "Despertar": false,
+    "Habilidades": [
+      "Cura de aliados",
+      "Aumento de força e defesa de aliados",
+      "Charme de inimigos",
+      "Despertar: (Não disponível)"
+    ]
+  },
+  {
+    "Nome": "Diamante",
+    "Tipo": "Paramecia",
+    "Despertar": true,
+    "Habilidades": [
+      "Transformação em diamante",
+      "Defesa extrema",
+      "Ataques cortantes com diamante",
+      "Despertar: Criação de construções de diamante, aumento de força e resistência"
+    ]
+  },
+  {
+    "Nome": "Chamas",
+    "Tipo": "Logia",
+    "Despertar": true,
+    "Habilidades": [
+      "Transformação em fogo",
+      "Ataques de fogo",
+      "Imunidade ao fogo",
+      "Despertar: Controle sobre o fogo, criação de ondas de fogo, aumento de força e resistência"
+    ]
+  },
+{
+ "Nome": "Corte",
+ "Tipo": "Paramecia",
+ "Despertar": false,
+ "Habilidades": [
+ "Controle sobre o ar",
+ "Criação de lâminas de ar",
+ "Ataques cortantes"
+ ]
+},
+
+    {
+      "Nome": "Gelo e Fogo",
+      "Tipo": "Dual",
+      "Despertar": false,
+      "Habilidades": [
+        "Ataques de gelo e fogo",
+        "Voo",
+        "Criar estruturas de gelo e fogo"
+      ]
+    },
+    {
+      "Nome": "Luz e Escuridão",
+      "Tipo": "Dual",
+      "Despertar": false,
+      "Habilidades": [
+        "Ataques de luz e escuridão",
+        "Teletransporte",
+        "Criar estruturas de luz e escuridão"
+      ]
+    },
+    {
+        "Nome": "Tornado",
+        "Tipo": "Logia",
+        "Despertar": true,
+        "Habilidades": [
+            "Transformação em tornado",
+            "Controle do vento",
+            "Criação de tempestades"
+        ]
+    },
+    {
+        "Nome": "Sombra",
+        "Tipo": "Paramecia",
+        "Despertar": true,
+        "Habilidades": [
+            "Controle sobre sombras",
+            "Transformação em sombra",
+            "Criar armas de sombra"
+        ]
+    }
+]

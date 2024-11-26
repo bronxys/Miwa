@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Qual é a capital da França?",
+        "answers": ["Paris", "Londres", "Berlim"],
+        "correctAnswer": "Paris"
+    },
+    {
+        "question": "Qual é o maior oceano do mundo?",
+        "answers": ["Atlântico", "Índico", "Pacífico"],
+        "correctAnswer": "Pacífico"
+    },
+    {
+        "question": "Quem pintou a Mona Lisa?",
+        "answers": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso"],
+        "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+        "question": "Qual é o idioma oficial do Brasil?",
+        "answers": ["Espanhol", "Inglês", "Português"],
+        "correctAnswer": "Português"
+    },
+    {
+        "question": "Qual é a moeda oficial dos Estados Unidos?",
+        "answers": ["Euro", "Dólar", "Libra"],
+        "correctAnswer": "Dólar"
+    },
+    {
+        "question": "Qual é o país mais populoso do mundo?",
+        "answers": ["Índia", "Estados Unidos", "China"],
+        "correctAnswer": "China"
+    },
+    {
+        "question": "Quem escreveu 'Dom Quixote'?",
+        "answers": ["Miguel de Cervantes", "William Shakespeare", "Fernando Pessoa"],
+        "correctAnswer": "Miguel de Cervantes"
+    },
+    {
+        "question": "Qual é o maior deserto do mundo?",
+        "answers": ["Saara", "Gobi", "Atacama"],
+        "correctAnswer": "Saara"
+    },
+    {
+        "question": "Qual é o símbolo químico do ouro?",
+        "answers": ["Au", "Ag", "Fe"],
+        "correctAnswer": "Au"
+    },
+    {
+        "question": "Quem descobriu a América?",
+        "answers": ["Cristóvão Colombo", "Vasco da Gama", "Pedro Álvares Cabral"],
+        "correctAnswer": "Cristóvão Colombo"
+    },
+    {
+        "question": "Qual é a montanha mais alta do mundo?",
+        "answers": ["Everest", "K2", "Kilimanjaro"],
+        "correctAnswer": "Everest"
+    },
+    {
+        "question": "Qual é o maior órgão do corpo humano?",
+        "answers": ["Pulmão", "Cérebro", "Pele"],
+        "correctAnswer": "Pele"
+    },
+    {
+        "question": "Em que ano ocorreu a Revolução Francesa?",
+        "answers": ["1789", "1848", "1917"],
+        "correctAnswer": "1789"
+    },
+    {
+        "question": "Quem é conhecido como o 'Pai da Computação'?",
+        "answers": ["Alan Turing", "Steve Jobs", "Bill Gates"],
+        "correctAnswer": "Alan Turing"
+    },
+    {
+        "question": "Qual é o rio mais longo do mundo?",
+        "answers": ["Amazonas", "Nilo", "Mississippi"],
+        "correctAnswer": "Nilo"
+    },
+    {
+        "question": "Qual é o maior país em área territorial?",
+        "answers": ["China", "Estados Unidos", "Rússia"],
+        "correctAnswer": "Rússia"
+    },
+    {
+        "question": "Qual é o livro mais vendido do mundo?",
+        "answers": ["Bíblia", "O Senhor dos Anéis", "O Pequeno Príncipe"],
+        "correctAnswer": "Bíblia"
+    },
+    {
+        "question": "Qual é o menor país do mundo em área?",
+        "answers": ["Vaticano", "Mônaco", "San Marino"],
+        "correctAnswer": "Vaticano"
+    },
+    {
+        "question": "Qual é o número atômico do carbono?",
+        "answers": ["6", "12", "14"],
+        "correctAnswer": "6"
+    },
+    {
+        "question": "Qual é o planeta conhecido como 'Planeta Vermelho'?",
+        "answers": ["Júpiter", "Marte", "Saturno"],
+        "correctAnswer": "Marte"
+    },
+    {
+        "question": "Quem foi o primeiro homem a pisar na Lua?",
+        "answers": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin"],
+        "correctAnswer": "Neil Armstrong"
+    },
+    {
+        "question": "Qual é a fórmula química do sal de cozinha?",
+        "answers": ["NaCl", "KCl", "MgCl2"],
+        "correctAnswer": "NaCl"
+    },
+    {
+        "question": "Qual é o idioma mais falado no mundo?",
+        "answers": ["Inglês", "Espanhol", "Mandarim"],
+        "correctAnswer": "Mandarim"
+    },
+    {
+        "question": "Qual é o metal líquido à temperatura ambiente?",
+        "answers": ["Mercúrio", "Cobre", "Ferro"],
+        "correctAnswer": "Mercúrio"
+    },
+    {
+        "question": "Qual é o maior continente do mundo?",
+        "answers": ["África", "Ásia", "América do Sul"],
+        "correctAnswer": "Ásia"
+    },
+    {
+        "question": "Quem pintou 'A Última Ceia'?",
+        "answers": ["Michelangelo", "Rafael", "Leonardo da Vinci"],
+        "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+        "question": "Qual é a capital do Japão?",
+        "answers": ["Pequim", "Seul", "Tóquio"],
+        "correctAnswer": "Tóquio"
+    },
+    {
+        "question": "Qual é a fórmula química da água?",
+        "answers": ["H2O", "CO2", "O2"],
+        "correctAnswer": "H2O"
+    },
+    {
+        "question": "Qual foi o primeiro país a conceder o direito de voto às mulheres?",
+        "answers": ["Estados Unidos", "Nova Zelândia", "Reino Unido"],
+        "correctAnswer": "Nova Zelândia"
+    },
+    {
+        "question": "Qual é o nome científico dos seres humanos?",
+        "answers": ["Homo erectus", "Homo habilis", "Homo sapiens"],
+        "correctAnswer": "Homo sapiens"
+    },
+    {
+        "question": "Qual foi o primeiro satélite artificial lançado ao espaço?",
+        "answers": ["Sputnik 1", "Apollo 11", "Explorer 1"],
+        "correctAnswer": "Sputnik 1"
+    },
+    {
+        "question": "Quem escreveu 'Romeu e Julieta'?",
+        "answers": ["Charles Dickens", "William Shakespeare", "Mark Twain"],
+        "correctAnswer": "William Shakespeare"
+    },
+    {
+        "question": "Qual é o elemento mais abundante no universo?",
+        "answers": ["Hidrogênio", "Oxigênio", "Carbono"],
+        "correctAnswer": "Hidrogênio"
+    },
+    {
+        "question": "Qual é o ponto de ebulição da água em Celsius?",
+        "answers": ["100°C", "0°C", "50°C"],
+        "correctAnswer": "100°C"
+    },
+    {
+        "question": "Qual é o animal terrestre mais rápido do mundo?",
+        "answers": ["Guepardo", "Leão", "Antílope"],
+        "correctAnswer": "Guepardo"
+    },
+    {
+        "question": "Qual é o maior mamífero marinho?",
+        "answers": ["Orca", "Baleia Azul", "Tubarão Branco"],
+        "correctAnswer": "Baleia Azul"
+    },
+    {
+        "question": "Qual é a capital da Austrália?",
+        "answers": ["Sydney", "Melbourne", "Canberra"],
+        "correctAnswer": "Canberra"
+    },
+    {
+        "question": "Quem inventou o telefone?",
+        "answers": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla"],
+        "correctAnswer": "Alexander Graham Bell"
+    },
+    {
+        "question": "Qual é o principal órgão responsável pela filtragem do sangue?",
+        "answers": ["Fígado", "Pulmões", "Rins"],
+        "correctAnswer": "Rins"
+    },
+    {
+        "question": "Qual foi o primeiro Presidente dos Estados Unidos?",
+        "answers": ["Abraham Lincoln", "Thomas Jefferson", "George Washington"],
+        "correctAnswer": "George Washington"
+    },
+    {
+        "question": "A água é composta por quais elementos?",
+        "answers": ["Oxigênio e Nitrogênio", "Hidrogênio e Oxigênio", "Carbono e Hidrogênio"],
+        "correctAnswer": "Hidrogênio e Oxigênio"
+    },
+    {
+        "question": "Qual é a força que mantém os planetas em órbita ao redor do Sol?",
+        "answers": ["Força Magnética", "Força Gravitacional", "Força Nuclear"],
+        "correctAnswer": "Força Gravitacional"
+    },
+    {
+        "question": "Qual é o planeta mais próximo do Sol?",
+        "answers": ["Terra", "Vênus", "Mercúrio"],
+        "correctAnswer": "Mercúrio"
+    },
+    {
+        "question": "Qual é a unidade de medida de força no Sistema Internacional?",
+        "answers": ["Newton", "Pascal", "Joule"],
+        "correctAnswer": "Newton"
+    },
+    {
+        "question": "Qual é o gás mais abundante na atmosfera terrestre?",
+        "answers": ["Oxigênio", "Nitrogênio", "Gás Carbônico"],
+        "correctAnswer": "Nitrogênio"
+    },
+    {
+        "question": "Qual é o maior planeta do Sistema Solar?",
+        "answers": ["Saturno", "Júpiter", "Urano"],
+        "correctAnswer": "Júpiter"
+    },
+    {
+        "question": "Qual elemento químico tem o símbolo 'O'?",
+        "answers": ["Oxigênio", "Ouro", "Oxalato"],
+        "correctAnswer": "Oxigênio"
+    },
+    {
+        "question": "Quem desenvolveu a teoria da relatividade?",
+        "answers": ["Isaac Newton", "Galileu Galilei", "Albert Einstein"],
+        "correctAnswer": "Albert Einstein"
+    },
+    {
+        "question": "Qual é a unidade básica de vida?",
+        "answers": ["Átomo", "Célula", "Molécula"],
+        "correctAnswer": "Célula"
+    },
+    {
+        "question": "Qual é o metal mais leve?",
+        "answers": ["Ouro", "Chumbo", "Lítio"],
+        "correctAnswer": "Lítio"
+    },
+    {
+        "question": "Qual é o processo pelo qual as plantas produzem energia?",
+        "answers": ["Respiração", "Fotossíntese", "Fermentação"],
+        "correctAnswer": "Fotossíntese"
+    },
+    {
+        "question": "Qual é o maior osso do corpo humano?",
+        "answers": ["Fêmur", "Tíbia", "Rádio"],
+        "correctAnswer": "Fêmur"
+    },
+    {
+        "question": "Qual é o nome dado ao estudo dos fósseis?",
+        "answers": ["Antropologia", "Paleontologia", "Geologia"],
+        "correctAnswer": "Paleontologia"
+    },
+    {
+        "question": "Qual é a velocidade da luz no vácuo?",
+        "answers": ["300.000 km/s", "150.000 km/s", "450.000 km/s"],
+        "correctAnswer": "300.000 km/s"
+    },
+    {
+        "question": "Qual é o órgão responsável por bombear o sangue no corpo humano?",
+        "answers": ["Cérebro", "Pulmões", "Coração"],
+        "correctAnswer": "Coração"
+    },
+    {
+        "question": "Qual é o nome do processo pelo qual as células se dividem?",
+        "answers": ["Meiose", "Mitoses", "Citocinese"],
+        "correctAnswer": "Mitoses"
+    },
+    {
+        "question": "Qual é o nome da menor partícula de um elemento químico?",
+        "answers": ["Átomo", "Molécula", "Célula"],
+        "correctAnswer": "Átomo"
+    },
+    {
+        "question": "Quem formulou as leis do movimento?",
+        "answers": ["Albert Einstein", "Isaac Newton", "Nikola Tesla"],
+        "correctAnswer": "Isaac Newton"
+    },
+    {
+        "question": "Qual é a camada mais externa da Terra?",
+        "answers": ["Manto", "Crosta", "Núcleo"],
+        "correctAnswer": "Crosta"
+    },
+    {
+        "question": "Qual é o principal gás responsável pelo efeito estufa?",
+        "answers": ["Nitrogênio", "Dióxido de Carbono", "Hidrogênio"],
+        "correctAnswer": "Dióxido de Carbono"
+    }
+]

@@ -1,0 +1,378 @@
+{
+              "M1887": {
+                "nome": "M1887",
+                "descrição": "Uma espingarda de cano duplo que inflige danos massivos em curta distância.",
+                "dano": "Alto",
+                "alcance": "Curto",
+                "taxa_de_disparo": "Baixa",
+                "capacidade_do_pente": 2
+              },
+              "AK47": {
+                "nome": "AK47",
+                "descrição": "Rifle de assalto de alta potência com alta taxa de disparo e precisão moderada.",
+                "dano": "Moderado",
+                "alcance": "Médio",
+                "taxa_de_disparo": "Alta",
+                "capacidade_do_pente": 30
+              },
+              "AWM": {
+                "nome": "AWM",
+                "descrição": "Rifle de precisão capaz de derrubar inimigos com um único tiro.",
+                "dano": "Extremo",
+                "alcance": "Longo",
+                "taxa_de_disparo": "Baixa",
+                "capacidade_do_pente": 5
+              },
+  "Parafal": {
+    "nome": "Parafal",
+    "descrição": "Fuzil de assalto leve e compacto com boa precisão e taxa de disparo decente.",
+    "dano": "Moderado",
+    "alcance": "Médio",
+    "taxa_de_disparo": "Alta",
+    "capacidade_do_pente": 30
+  },
+  "Sniper": {
+    "nome": "Sniper",
+    "descrição": "Rifle de precisão de longo alcance para disparos precisos à distância.",
+    "dano": "Alto",
+    "alcance": "Longo",
+    "taxa_de_disparo": "Baixa",
+    "capacidade_do_pente": 5
+  },
+  "762": {
+    "nome": "762",
+    "descrição": "Rifle de batalha poderoso com alto dano e recuo significativo.",
+    "dano": "Alto",
+    "alcance": "Médio",
+    "taxa_de_disparo": "Moderada",
+    "capacidade_do_pente": 20
+  },
+              "Groza": {
+                "nome": "Groza",
+                "descrição": "Rifle de assalto altamente poderoso com uma taxa de disparo e precisão excepcionais.",
+                "dano": "Alto",
+                "alcance": "Médio",
+                "taxa_de_disparo": "Muito alta",
+                "capacidade_do_pente": 30
+              },
+              "UMP45": {
+                "nome": "UMP45",
+                "descrição": "Submetralhadora de alta cadência de tiro, equilibrada em termos de dano e controle de recuo.",
+                "dano": "Moderado",
+                "alcance": "Curto",
+                "taxa_de_disparo": "Alta",
+                "capacidade_do_pente": 25
+              },
+              "M1014": {
+                "nome": "M1014",
+                "descrição": "Uma espingarda de combate próxima com uma taxa de disparo e dano impressionantes.",
+                "dano": "Muito alto",
+                "alcance": "Curto",
+                "taxa_de_disparo": "Baixa",
+                "capacidade_do_pente": 6
+              },
+              "M60": {
+                "nome": "M60",
+                "descrição": "Metralhadora com alto poder de fogo, ideal para suprimir inimigos e combates a média distância.",
+                "dano": "Alto",
+                "alcance": "Médio",
+                "taxa_de_disparo": "Baixa",
+                "capacidade_do_pente": 60
+              },
+              "XM8": {
+                "nome": "XM8",
+                "descrição": "Rifle de assalto de alta eficiência, com ótimo equilíbrio entre dano, alcance e taxa de disparo.",
+                "dano": "Moderado",
+                "alcance": "Médio",
+                "taxa_de_disparo": "Alta",
+                "capacidade_do_pente": 30
+              },
+              "SCAR": {
+                "nome": "SCAR",
+                "descrição": "Rifle de assalto confiável, com boa precisão e controle de recuo.",
+                "dano": "Moderado",
+                "alcance": "Médio",
+                "taxa_de_disparo": "Média",
+                "capacidade_do_pente": 30
+              },
+              "M4A1": {
+                "nome": "M4A1",
+                "descrição": "Rifle de assalto versátil e equilibrado, adequado para várias situações de combate.",
+                "dano": "Moderado",
+                "alcance": "Médio",
+                "taxa_de_disparo": "Média",
+                "capacidade_do_pente": 30
+              },
+              "SVD": {
+                "nome": "SVD",
+                "descrição": "Rifle de precisão semi-automático, com ótimo alcance e dano significativo.",
+                "dano": "Alto",
+                "alcance": "Longo",
+                "taxa_de_disparo": "Baixa",
+                "capacidade_do_pente": 10
+              },
+              "MP5": {
+                "nome": "MP5",
+                "descrição": "Submetralhadora compacta e precisa, adequada para combates em espaços confinados.",
+                "dano": "Moderado",
+                "alcance": "Curto",
+                "taxa_de_disparo": "Alta",
+                "capacidade_do_pente": 30
+              },
+              "SPAS12": {
+                "nome": "SPAS12",
+                "descrição": "Uma espingarda de ação por bombeamento, eficaz a curta distância com alto dano.",
+                "dano": "Alto",
+                "alcance": "Curto",
+                "taxa_de_disparo": "Baixa",
+                "capacidade_do_pente": 6
+              },
+              "KAR98K": {
+                "nome": "KAR98K",
+                "descrição": "Rifle de precisão de ação por ferrolho, com excelente precisão e dano letal.",
+                "dano": "Extremo",
+                "alcance": "Longo",
+                "taxa_de_disparo": "Baixa",
+                "capacidade_do_pente": 5
+              },
+              "M249": {
+                "nome": "M249",
+                "descrição": "Metralhadora leve com grande capacidade de munição, ideal para controle de área.",
+                "dano": "Alto",
+                "alcance": "Médio",
+                "taxa_de_disparo": "Baixa",
+                "capacidade_do_pente": 100
+              },
+              "Thompson": {
+                "nome": "Thompson",
+                "descrição": "Submetralhadora clássica de alta cadência de tiro e bom controle de recuo.",
+                "dano": "Moderado",
+                "alcance": "Curto",
+                "taxa_de_disparo": "Alta",
+                "capacidade_do_pente": 30
+              },
+              "VSS": {
+                "nome": "VSS",
+                "descrição": "Rifle de assalto silencioso com escopo integrado e baixo recuo.",
+                "dano": "Moderado",
+                "alcance": "Médio",
+                "taxa_de_disparo": "Média",
+                "capacidade_do_pente": 15
+              },
+              "MP40": {
+                "nome": "MP40",
+                "descrição": "Submetralhadora de alta cadência de tiro e bom controle de recuo.",
+                "dano": "Moderado",
+                "alcance": "Curto",
+                "taxa_de_disparo": "Muito alta",
+                "capacidade_do_pente": 30
+              },
+              "AUG": {
+                "nome": "AUG",
+                "descrição": "Rifle de assalto com excelente precisão, alcance e taxa de disparo.",
+                "dano": "Moderado",
+                "alcance": "Médio",
+                "taxa_de_disparo": "Alta",
+                "capacidade_do_pente": 30
+              },
+              "G18": {
+                "nome": "G18",
+                "descrição": "Pistola automática com alta taxa de disparo, ideal para combate próximo.",
+                "dano": "Moderado",
+                "alcance": "Curto",
+                "taxa_de_disparo": "Muito alta",
+                "capacidade_do_pente": 20
+              },
+              "P90": {
+                "nome": "P90",
+                "descrição": "Submetralhadora de alta cadência de tiro e capacidade de munição elevada.",
+                "dano": "Moderado",
+                "alcance": "Curto",
+                "taxa_de_disparo": "Muito alta",
+                "capacidade_do_pente": 50
+              },
+              "Desert Eagle": {
+                "nome": "Desert Eagle",
+                "descrição": "Pistola de alta potência e precisão, com uma grande parada de energia.",
+                "dano": "Alto",
+                "alcance": "Curto",
+                "taxa_de_disparo": "Média",
+                "capacidade_do_pente": 7
+              },
+              "Vector": {
+                "nome": "Vector",
+                "descrição": "Submetralhadora compacta com alta cadência de tiro e boa precisão.",
+                "dano": "Moderado",
+                "alcance": "Curto",
+                "taxa_de_disparo": "Muito alta",
+                "capacidade_do_pente": 30
+              },
+              "M14": {
+                "nome": "M14",
+                "descrição": "Rifle semiautomático de alta precisão, ideal para combates de longa distância.",
+                "dano": "Alto",
+                "alcance": "Longo",
+                "taxa_de_disparo": "Baixa",
+                "capacidade_do_pente": 10
+              },
+              "CG15": {
+                "nome": "CG15",
+                "descrição": "Rifle de sinalização que causa dano explosivo aos inimigos.",
+                "dano": "Moderado",
+                "alcance": "Médio",
+                "taxa_de_disparo": "Baixa",
+                "capacidade_do_pente": 1
+              },
+              "USP": {
+                "nome": "USP",
+                "descrição": "Pistola de médio alcance com boa precisão e taxa de disparo.",
+                "dano": "Moderado",
+                "alcance": "Médio",
+                "taxa_de_disparo": "Média",
+                "capacidade_do_pente": 12
+              },
+              "M1873": {
+                "nome": "M1873",
+                "descrição": "Revólver de ação simples com alto dano, mas taxa de disparo baixa.",
+                "dano": "Alto",
+                "alcance": "Curto",
+                "taxa_de_disparo": "Baixa",
+                "capacidade_do_pente": 2
+              },
+              "AN94": {
+                "nome": "AN94",
+                "descrição": "Rifle de assalto com um modo de disparo especial que aumenta a taxa de disparo.",
+                "dano": "Moderado",
+                "alcance": "Médio",
+                "taxa_de_disparo": "Alta",
+                "capacidade_do_pente": 30
+              },
+              "M79": {
+                "nome": "M79",
+                "descrição": "Lançador de granadas que causa danos em área com alto poder de explosão.",
+                "dano": "Extremo",
+                "alcance": "Longo",
+                "taxa_de_disparo": "Baixa",
+                "capacidade_do_pente": 1
+              },
+              "M14": {
+                "nome": "M14",
+                "descrição": "Rifle semiautomático de alta precisão, ideal para combates de longa distância.",
+                "dano": "Alto",
+                "alcance": "Longo",
+                "taxa_de_disparo": "Baixa",
+                "capacidade_do_pente": 10
+              },
+              "CG15": {
+                "nome": "CG15",
+                "descrição": "Rifle de sinalização que causa dano explosivo aos inimigos.",
+                "dano": "Moderado",
+                "alcance": "Médio",
+                "taxa_de_disparo": "Baixa",
+                "capacidade_do_pente": 1
+              },
+              "USP": {
+                "nome": "USP",
+                "descrição": "Pistola de médio alcance com boa precisão e taxa de disparo.",
+                "dano": "Moderado",
+                "alcance": "Médio",
+                "taxa_de_disparo": "Média",
+                "capacidade_do_pente": 12
+              },
+              "M1873": {
+                "nome": "M1873",
+                "descrição": "Revólver de ação simples com alto dano, mas taxa de disparo baixa.",
+                "dano": "Alto",
+                "alcance": "Curto",
+                "taxa_de_disparo": "Baixa",
+                "capacidade_do_pente": 2
+              },
+              "AN94": {
+                "nome": "AN94",
+                "descrição": "Rifle de assalto com um modo de disparo especial que aumenta a taxa de disparo.",
+                "dano": "Moderado",
+                "alcance": "Médio",
+                "taxa_de_disparo": "Alta",
+                "capacidade_do_pente": 30
+              },
+              "M79": {
+                "nome": "M79",
+                "descrição": "Lançador de granadas que causa danos em área com alto poder de explosão.",
+                "dano": "Extremo",
+                "alcance": "Longo",
+                "taxa_de_disparo": "Baixa",
+                "capacidade_do_pente": 1
+              },
+              "M82B": {
+                "nome": "M82B",
+                "descrição": "Rifle de precisão de ação por ferrolho com alto dano e capacidade de penetração.",
+                "dano": "Extremo",
+                "alcance": "Longo",
+                "taxa_de_disparo": "Baixa",
+                "capacidade_do_pente": 5
+              },
+              "P90": {
+                "nome": "P90",
+                "descrição": "Submetralhadora de alta cadência de tiro e capacidade de munição elevada.",
+                "dano": "Moderado",
+                "alcance": "Curto",
+                "taxa_de_disparo": "Muito alta",
+                "capacidade_do_pente": 50
+              },
+              "Desert Eagle": {
+                "nome": "Desert Eagle",
+                "descrição": "Pistola de alta potência e precisão, com uma grande parada de energia.",
+                "dano": "Alto",
+                "alcance": "Curto",
+                "taxa_de_disparo": "Média",
+                "capacidade_do_pente": 7
+              },
+              "M1887": {
+                "nome": "M1887",
+                "descrição": "Espingarda de ação por ferrolho com alto dano em combates de curta distância.",
+                "dano": "Extremo",
+                "alcance": "Curto",
+                "taxa_de_disparo": "Baixa",
+                "capacidade_do_pente": 2
+              },
+              "XM8": {
+                "nome": "XM8",
+                "descrição": "Rifle de assalto com boa precisão e cadência de tiro.",
+                "dano": "Moderado",
+                "alcance": "Médio",
+                "taxa_de_disparo": "Média",
+                "capacidade_do_pente": 30
+              },
+              "KAR98K": {
+                "nome": "KAR98K",
+                "descrição": "Rifle de precisão de ação por ferrolho com alto dano e precisão.",
+                "dano": "Extremo",
+                "alcance": "Longo",
+                "taxa_de_disparo": "Baixa",
+                "capacidade_do_pente": 5
+              },
+              "M79": {
+                "nome": "M79",
+                "descrição": "Lançador de granadas que causa danos em área com alto poder de explosão.",
+                "dano": "Extremo",
+                "alcance": "Longo",
+                "taxa_de_disparo": "Baixa",
+                "capacidade_do_pente": 1
+              },
+              "MP40": {
+                "nome": "MP40",
+                "descrição": "Submetralhadora de alta cadência de tiro e bom controle de recuo.",
+                "dano": "Moderado",
+                "alcance": "Curto",
+                "taxa_de_disparo": "Muito alta",
+                "capacidade_do_pente": 30
+              },
+              "M14": {
+                "nome": "M14",
+                "descrição": "Rifle semiautomático de alta precisão, ideal para combates de longa distância.",
+                "dano": "Alto",
+                "alcance": "Longo",
+                "taxa_de_disparo": "Baixa",
+                "capacidade_do_pente": 10
+              }
+            }

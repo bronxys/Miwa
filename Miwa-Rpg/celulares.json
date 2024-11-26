@@ -1,0 +1,84 @@
+{
+  "celulares": [
+    {
+      "nomeCelular": "Galaxy A01",
+      "informacoes": "O Galaxy A01 é um celular da Samsung lançado em abril de 2020. O smartphone traz como destaque a câmera dupla de até 13 MP, desbloqueio facial e Android 10. O telefone é vendido pelo preço sugerido de R$ 1.099 e está disponível nas cores preto, azul e vermelho. A tela de 5,7 polegadas conta com resolução HD+ de 1520 x 720 pixels. A ficha técnica fica completa com 2 GB de memória RAM, processador octa-core de até 2 GHz, bateria de 3.000 mAh, armazenamento de 32 GB e suporte a cartão microSD de até 1 TB.",
+      "resumoExtra": "Capacidade da bateria 3.000 mAh\n\nPeso 149 g\n\nSistema operacional Android 10\n\nProcessador octa-core de até 2 GHz\n\nMemória RAM 2 GB\n\nMemória interna 32 GB\n\nMemória expansível sim, microSD de até 1 TB\n\nResolução da câmera traseira dupla, 13 e 2 megapixels\n\nResolução da câmera frontal 5 MP\n\nTamanho da tela 5,7 polegadas\n\nResolução máxima HD+ (1520 x 720 pixels)"
+    },
+    {
+      "nomeCelular": "iPhone 1",
+      "informacoes": "O iPhone 1, também conhecido como iPhone Original ou iPhone 2G, foi lançado pela Apple em junho de 2007. Foi o primeiro modelo de iPhone, revolucionando o mercado com sua interface multi-touch e o sistema operacional iOS.",
+      "resumoExtra": "Tela: 3,5 polegadas\n\nCâmera: 2 MP\n\nArmazenamento: 4 GB, 8 GB, 16 GB\n\nSistema operacional: iOS (original)"
+    },
+    {
+      "nomeCelular": "iPhone 2",
+      "informacoes": "O iPhone 2, ou iPhone 3G, foi lançado pela Apple em julho de 2008. Introduziu suporte para redes 3G e GPS, além de melhorias no sistema operacional iOS.",
+      "resumoExtra": "Tela: 3,5 polegadas\n\nCâmera: 2 MP\n\nArmazenamento: 8 GB, 16 GB\n\nSistema operacional: iOS 2"
+    },
+    {
+      "nomeCelular": "iPhone 3",
+      "informacoes": "O iPhone 3, ou iPhone 3GS, foi lançado pela Apple em junho de 2009. Trouxe melhorias significativas de desempenho, câmera de 3 MP, e suporte para gravação de vídeos.",
+      "resumoExtra": "Tela: 3,5 polegadas\n\nCâmera: 3 MP\n\nArmazenamento: 8 GB, 16 GB, 32 GB\n\nSistema operacional: iOS 3"
+    },
+    {
+      "nomeCelular": "iPhone 4",
+      "informacoes": "O iPhone 4 foi lançado pela Apple em junho de 2010. Introduziu um novo design com bordas metálicas, tela Retina de alta resolução, câmera de 5 MP, e suporte para gravação de vídeos em HD.",
+      "resumoExtra": "Tela: 3,5 polegadas\n\nCâmera: 5 MP\n\nArmazenamento: 8 GB, 16 GB, 32 GB\n\nSistema operacional: iOS 4"
+    },
+    {
+      "nomeCelular": "iPhone 5",
+      "informacoes": "O iPhone 5 foi lançado pela Apple em setembro de 2012. Introduziu um design mais fino e leve, tela maior de 4 polegadas, conector Lightning, e suporte para redes LTE.",
+      "resumoExtra": "Tela: 4 polegadas\n\nCâmera: 8 MP\n\nArmazenamento: 16 GB, 32 GB, 64 GB\n\nSistema operacional: iOS 6"
+    },
+    {
+      "nomeCelular": "iPhone 6",
+      "informacoes": "O iPhone 6 foi lançado pela Apple em setembro de 2014. Apresentou um design redesenhado com tela de 4,7 polegadas, câmera de 8 MP com estabilização óptica de imagem, e suporte para Apple Pay.",
+      "resumoExtra": "Tela: 4,7 polegadas\n\nCâmera: 8 MP\n\nArmazenamento: 16 GB, 64 GB, 128 GB\n\nSistema operacional: iOS 8"
+    },
+    {
+      "nomeCelular": "iPhone 7",
+      "informacoes": "O iPhone 7 foi lançado pela Apple em setembro de 2016. Introduziu resistência à água IP67, câmera de 12 MP com estabilização óptica de imagem, e remoção do conector de fones de ouvido.",
+      "resumoExtra": "Tela: 4,7 polegadas\n\nCâmera: 12 MP\n\nArmazenamento: 32 GB, 128 GB, 256 GB\n\nSistema operacional: iOS 10"
+    },
+    {
+      "nomeCelular": "iPhone 8",
+      "informacoes": "O iPhone 8 foi lançado pela Apple em setembro de 2017. Apresentou um design similar ao iPhone 7, mas com traseira de vidro para suporte a carregamento sem fio, processador A11 Bionic, e melhorias na câmera.",
+      "resumoExtra": "Tela: 4,7 polegadas\n\nCâmera: 12 MP\n\nArmazenamento: 64 GB, 256 GB\n\nSistema operacional: iOS 11"
+    },
+    {
+      "nomeCelular": "iPhone 9",
+      "informacoes": "O iPhone 9, ou iPhone SE (2020), foi lançado pela Apple em abril de 2020. É uma versão compacta com design similar ao iPhone 8, câmera de 12 MP, chip A13 Bionic, e suporte para Touch ID.",
+      "resumoExtra": "Tela: 4,7 polegadas\n\nCâmera: 12 MP\n\nArmazenamento: 64 GB, 128 GB, 256 GB\n\nSistema operacional: iOS 13"
+    },
+    {
+      "nomeCelular": "iPhone 10",
+      "informacoes": "O iPhone 10, ou iPhone X, foi lançado pela Apple em novembro de 2017. Introduziu um novo design com tela Super Retina de 5,8 polegadas, reconhecimento facial Face ID, câmera dupla de 12 MP com estabilização óptica de imagem, e suporte para animojis.",
+      "resumoExtra": "Tela: 5,8 polegadas\n\nCâmera: 12 MP\n\nArmazenamento: 64 GB, 256 GB\n\nSistema operacional: iOS 11"
+    },
+    {
+      "nomeCelular": "iPhone 11",
+      "informacoes": "O iPhone 11 foi lançado pela Apple em setembro de 2019. Apresentou um design similar ao iPhone XR, tela Liquid Retina de 6,1 polegadas, câmera dupla de 12 MP com modo noturno, e chip A13 Bionic.",
+      "resumoExtra": "Tela: 6,1 polegadas\n\nCâmera: 12 MP\n\nArmazenamento: 64 GB, 128 GB, 256 GB\n\nSistema operacional: iOS 13"
+    },
+    {
+      "nomeCelular": "iPhone 12",
+      "informacoes": "O iPhone 12 foi lançado pela Apple em outubro de 2020. Apresentou um novo design com bordas planas, tela Super Retina XDR de 6,1 polegadas, câmera dupla de 12 MP com modo noturno, e chip A14 Bionic.",
+      "resumoExtra": "Tela: 6,1 polegadas\n\nCâmera: 12 MP\n\nArmazenamento: 64 GB, 128 GB, 256 GB\n\nSistema operacional: iOS 14"
+    },
+    {
+      "nomeCelular": "iPhone 13",
+      "informacoes": "O iPhone 13 foi lançado pela Apple em setembro de 2021. Apresentou um design semelhante ao iPhone 12, tela Super Retina XDR de 6,1 polegadas, câmera dupla de 12 MP com modo noturno, e chip A15 Bionic.",
+      "resumoExtra": "Tela: 6,1 polegadas\n\nCâmera: 12 MP\n\nArmazenamento: 128 GB, 256 GB, 512 GB\n\nSistema operacional: iOS 15"
+    },
+    {
+      "nomeCelular": "iPhone 14",
+      "informacoes": "O iPhone 14 é o próximo modelo esperado da Apple, previsto para lançamento em 2022. Rumores apontam para melhorias significativas na câmera e desempenho, além de possíveis inovações no design e tela.",
+      "resumoExtra": "Especificações ainda não confirmadas."
+    },
+    {
+      "nomeCelular": "iPhone 15",
+      "informacoes": "O iPhone 15 é uma versão futura esperada da Apple, com expectativas de avanços tecnológicos significativos, mas detalhes específicos ainda não foram divulgados.",
+      "resumoExtra": "Especificações ainda não confirmadas."
+    }
+  ]
+}

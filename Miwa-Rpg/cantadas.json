@@ -1,0 +1,154 @@
+{
+  "cantadas": [
+    {
+      "pergunta": "Você é um Wi-Fi?",
+      "respostas": ["Porque estou sentindo uma conexão", "Porque você está disponível para todos", "Porque você tem sinal forte", "Porque você me deixa desconectado"],
+      "correta": "Porque estou sentindo uma conexão"
+    },
+    {
+      "pergunta": "Você é Google?",
+      "respostas": ["Porque você tem todas as respostas", "Porque você me rastreia", "Porque você sabe de tudo", "Porque você é popular"],
+      "correta": "Porque você tem todas as respostas"
+    },
+    {
+      "pergunta": "Você é um furacão?",
+      "respostas": ["Porque você levou meu coração embora", "Porque você me deixou confuso", "Porque você é devastador", "Porque você causa estragos"],
+      "correta": "Porque você levou meu coração embora"
+    },
+    {
+      "pergunta": "Você é uma câmera?",
+      "respostas": ["Porque você me faz sorrir", "Porque você captura momentos", "Porque você tem um bom foco", "Porque você vê tudo"],
+      "correta": "Porque você me faz sorrir"
+    },
+    {
+      "pergunta": "Você acredita em amor à primeira vista?",
+      "respostas": ["Ou devo passar por aqui novamente?", "Ou é só uma ilusão?", "Ou é apenas uma coincidência?", "Ou precisa de mais tempo?"],
+      "correta": "Ou devo passar por aqui novamente?"
+    },
+    {
+      "pergunta": "Você é um mapa?",
+      "respostas": ["Porque eu me perco nos seus olhos", "Porque você tem direções", "Porque você mostra o caminho", "Porque você tem muitas linhas"],
+      "correta": "Porque eu me perco nos seus olhos"
+    },
+    {
+      "pergunta": "Você é uma estrela?",
+      "respostas": ["Porque você ilumina minha noite", "Porque você brilha no escuro", "Porque você está distante", "Porque você é famosa"],
+      "correta": "Porque você ilumina minha noite"
+    },
+    {
+      "pergunta": "Você é um anjo?",
+      "respostas": ["Porque você caiu do céu", "Porque você tem asas", "Porque você é celestial", "Porque você é perfeito"],
+      "correta": "Porque você caiu do céu"
+    },
+    {
+      "pergunta": "Você é um sonho?",
+      "respostas": ["Porque você é bom demais para ser verdade", "Porque você acontece à noite", "Porque você é fantasioso", "Porque você é desejado"],
+      "correta": "Porque você é bom demais para ser verdade"
+    },
+    {
+      "pergunta": "Você é um chocolate?",
+      "respostas": ["Porque você é doce e irresistível", "Porque você é doce", "Porque você derrete", "Porque você é delicioso"],
+      "correta": "Porque você é doce e irresistível"
+    },
+    {
+      "pergunta": "Você é um imã?",
+      "respostas": ["Porque você me atrai", "Porque você é forte", "Porque você tem polaridade", "Porque você é metálico"],
+      "correta": "Porque você me atrai"
+    },
+    {
+      "pergunta": "Você é uma flor?",
+      "respostas": ["Porque você é bonita e delicada", "Porque você tem pétalas", "Porque você floresce", "Porque você tem perfume"],
+      "correta": "Porque você é bonita e delicada"
+    },
+    {
+      "pergunta": "Você é um livro?",
+      "respostas": ["Porque eu não consigo parar de ler você", "Porque você tem muitas páginas", "Porque você conta histórias", "Porque você é interessante"],
+      "correta": "Porque eu não consigo parar de ler você"
+    },
+    {
+      "pergunta": "Você é um arco-íris?",
+      "respostas": ["Porque você traz cor à minha vida", "Porque você aparece após a chuva", "Porque você é colorido", "Porque você é raro"],
+      "correta": "Porque você traz cor à minha vida"
+    },
+    {
+      "pergunta": "Você é um mágico?",
+      "respostas": ["Porque sempre que te vejo, tudo desaparece", "Porque você faz truques", "Porque você tem uma varinha", "Porque você é misterioso"],
+      "correta": "Porque sempre que te vejo, tudo desaparece"
+    },
+    {
+      "pergunta": "Você é um artista?",
+      "respostas": ["Porque você pintou meu mundo", "Porque você desenha", "Porque você cria", "Porque você é talentoso"],
+      "correta": "Porque você pintou meu mundo"
+    },
+    {
+      "pergunta": "Você é um cientista?",
+      "respostas": ["Porque você me faz sentir explosões de emoções", "Porque você faz experimentos", "Porque você é inteligente", "Porque você faz descobertas"],
+      "correta": "Porque você me faz sentir explosões de emoções"
+    },
+    {
+      "pergunta": "Você é um GPS?",
+      "respostas": ["Porque você me guia", "Porque você dá direções", "Porque você está sempre certo", "Porque você tem um mapa"],
+      "correta": "Porque você me guia"
+    },
+    {
+      "pergunta": "Você é um espelho?",
+      "respostas": ["Porque eu me vejo em você", "Porque você reflete", "Porque você é transparente", "Porque você mostra a verdade"],
+      "correta": "Porque eu me vejo em você"
+    },
+    {
+      "pergunta": "Você é um foguete?",
+      "respostas": ["Porque você me leva às alturas", "Porque você é rápido", "Porque você voa", "Porque você vai ao espaço"],
+      "correta": "Porque você me leva às alturas"
+    },
+    {
+      "pergunta": "Você é uma melodia?",
+      "respostas": ["Porque você está sempre na minha cabeça", "Porque você tem ritmo", "Porque você é harmonioso", "Porque você é agradável"],
+      "correta": "Porque você está sempre na minha cabeça"
+    },
+    {
+      "pergunta": "Você é um labirinto?",
+      "respostas": ["Porque eu me perco em você", "Porque você é complicado", "Porque você tem muitos caminhos", "Porque você é misterioso"],
+      "correta": "Porque eu me perco em você"
+    },
+    {
+      "pergunta": "Você é uma chama?",
+      "respostas": ["Porque você acende meu coração", "Porque você é quente", "Porque você brilha", "Porque você queima"],
+      "correta": "Porque você acende meu coração"
+    },
+    {
+      "pergunta": "Você é uma joia?",
+      "respostas": ["Porque você é precioso para mim", "Porque você brilha", "Porque você é raro", "Porque você é valioso"],
+      "correta": "Porque você é precioso para mim"
+    },
+    {
+      "pergunta": "Você é um quebra-cabeça?",
+      "respostas": ["Porque você completa minha vida", "Porque você é desafiador", "Porque você tem muitas peças", "Porque você é intrigante"],
+      "correta": "Porque você completa minha vida"
+    },
+    {
+      "pergunta": "Você é um raio de sol?",
+      "respostas": ["Porque você ilumina meus dias", "Porque você é brilhante", "Porque você aquece", "Porque você é energético"],
+      "correta": "Porque você ilumina meus dias"
+    },
+    {
+      "pergunta": "Você é um vulcão?",
+      "respostas": ["Porque você é explosivo", "Porque você é quente", "Porque você tem lava", "Porque você está sempre em erupção"],
+      "correta": "Porque você é explosivo"
+    },
+    {
+      "pergunta": "Você é um diamante?",
+      "respostas": ["Porque você é raro e valioso", "Porque você é brilhante", "Porque você é durável", "Porque você é bonito"],
+      "correta": "Porque você é raro e valioso"
+    },
+    {
+      "pergunta": "Você é um arco?",
+      "respostas": ["Porque você me deixa em forma", "Porque você tem curvas", "Porque você é flexível", "Porque você é forte"],
+      "correta": "Porque você me deixa em forma"
+    },
+    {
+      "pergunta": "Você é uma bússola?",
+      "respostas": ["Porque você sempre me orienta", "Porque você aponta para o norte", "Porque você tem direções", "Porque você é preciso"],
+      "correta": "Porque você sempre me orienta"
+    }
+  ]
+}

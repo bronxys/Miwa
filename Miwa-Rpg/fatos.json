@@ -1,0 +1,154 @@
+{
+    "fatos": [
+        {
+            "pergunta": "Qual é a capital da Espanha?",
+            "respostas": ["Madrid", "Barcelona", "Sevilha"],
+            "correta": "Madrid"
+        },
+        {
+            "pergunta": "Qual é o elemento químico representado pelo símbolo 'O'?",
+            "respostas": ["Ouro", "Oxigênio", "Osmium"],
+            "correta": "Oxigênio"
+        },
+        {
+            "pergunta": "Quem pintou a Mona Lisa?",
+            "respostas": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso"],
+            "correta": "Leonardo da Vinci"
+        },
+        {
+            "pergunta": "Qual é o maior oceano do mundo?",
+            "respostas": ["Atlântico", "Índico", "Pacífico"],
+            "correta": "Pacífico"
+        },
+        {
+            "pergunta": "Qual é a moeda oficial do Japão?",
+            "respostas": ["Iene", "Yuan", "Won"],
+            "correta": "Iene"
+        },
+        {
+            "pergunta": "Qual é a língua oficial do Brasil?",
+            "respostas": ["Espanhol", "Português", "Inglês"],
+            "correta": "Português"
+        },
+        {
+            "pergunta": "Qual é o menor país do mundo?",
+            "respostas": ["Mônaco", "Nauru", "Vaticano"],
+            "correta": "Vaticano"
+        },
+        {
+            "pergunta": "Quem desenvolveu a teoria da relatividade?",
+            "respostas": ["Isaac Newton", "Albert Einstein", "Galileo Galilei"],
+            "correta": "Albert Einstein"
+        },
+        {
+            "pergunta": "Qual é o animal terrestre mais rápido?",
+            "respostas": ["Leão", "Leopardo", "Guepardo"],
+            "correta": "Guepardo"
+        },
+        {
+            "pergunta": "Qual é o órgão responsável por bombear o sangue no corpo humano?",
+            "respostas": ["Pulmão", "Coração", "Fígado"],
+            "correta": "Coração"
+        },
+        {
+            "pergunta": "Quem foi o primeiro presidente dos Estados Unidos?",
+            "respostas": ["George Washington", "Thomas Jefferson", "Abraham Lincoln"],
+            "correta": "George Washington"
+        },
+        {
+            "pergunta": "Qual é a maior cadeia de montanhas do mundo?",
+            "respostas": ["Andes", "Himalaia", "Rockies"],
+            "correta": "Himalaia"
+        },
+        {
+            "pergunta": "Qual é o rio mais longo do mundo?",
+            "respostas": ["Nilo", "Amazonas", "Yangtze"],
+            "correta": "Amazonas"
+        },
+        {
+            "pergunta": "Qual é o país com a maior população do mundo?",
+            "respostas": ["Índia", "China", "Estados Unidos"],
+            "correta": "China"
+        },
+        {
+            "pergunta": "Qual é o planeta mais próximo do sol?",
+            "respostas": ["Vênus", "Terra", "Mercúrio"],
+            "correta": "Mercúrio"
+        },
+        {
+            "pergunta": "Quem foi o autor de 'A Origem das Espécies'?",
+            "respostas": ["Charles Darwin", "Gregor Mendel", "Louis Pasteur"],
+            "correta": "Charles Darwin"
+        },
+        {
+            "pergunta": "Qual é o maior deserto do mundo?",
+            "respostas": ["Sahara", "Antártica", "Gobi"],
+            "correta": "Antártica"
+        },
+        {
+            "pergunta": "Qual é o ponto mais alto da Terra?",
+            "respostas": ["Monte Everest", "K2", "Kangchenjunga"],
+            "correta": "Monte Everest"
+        },
+        {
+            "pergunta": "Quem pintou o teto da Capela Sistina?",
+            "respostas": ["Rafael", "Michelangelo", "Donatello"],
+            "correta": "Michelangelo"
+        },
+        {
+            "pergunta": "Qual é a fórmula química da água?",
+            "respostas": ["H2O", "CO2", "NaCl"],
+            "correta": "H2O"
+        },
+        {
+            "pergunta": "Qual é o principal gás que compõe a atmosfera da Terra?",
+            "respostas": ["Oxigênio", "Nitrogênio", "Dióxido de carbono"],
+            "correta": "Nitrogênio"
+        },
+        {
+            "pergunta": "Quem descobriu a América?",
+            "respostas": ["Cristóvão Colombo", "Vasco da Gama", "Ferdinando Magalhães"],
+            "correta": "Cristóvão Colombo"
+        },
+        {
+            "pergunta": "Qual é o metal mais abundante na crosta terrestre?",
+            "respostas": ["Ferro", "Alumínio", "Cobre"],
+            "correta": "Alumínio"
+        },
+        {
+            "pergunta": "Qual é a unidade básica da vida?",
+            "respostas": ["Átomo", "Célula", "Molécula"],
+            "correta": "Célula"
+        },
+        {
+            "pergunta": "Qual é o maior continente em termos de área?",
+            "respostas": ["África", "América do Norte", "Ásia"],
+            "correta": "Ásia"
+        },
+        {
+            "pergunta": "Quem foi o primeiro homem a pisar na Lua?",
+            "respostas": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin"],
+            "correta": "Neil Armstrong"
+        },
+        {
+            "pergunta": "Qual é a capital da Austrália?",
+            "respostas": ["Sydney", "Melbourne", "Canberra"],
+            "correta": "Canberra"
+        },
+        {
+            "pergunta": "Qual é o nome do maior satélite natural de Júpiter?",
+            "respostas": ["Europa", "Ganimedes", "Calisto"],
+            "correta": "Ganimedes"
+        },
+        {
+            "pergunta": "Qual é o animal mais alto do mundo?",
+            "respostas": ["Elefante", "Girafa", "Avestruz"],
+            "correta": "Girafa"
+        },
+        {
+            "pergunta": "Qual é a principal substância que compõe os diamantes?",
+            "respostas": ["Carbono", "Silício", "Oxigênio"],
+            "correta": "Carbono"
+        }
+    ]
+}

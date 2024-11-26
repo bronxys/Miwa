@@ -1,0 +1,77 @@
+[
+    {
+        "pergunta": "Qual é a capital da França?",
+        "resposta": "Paris",
+        "dica": "É conhecida como a cidade do amor"
+    },
+    {
+        "pergunta": "Qual é o maior planeta do sistema solar?",
+        "resposta": "Júpiter",
+        "dica": "É famoso por sua grande mancha vermelha"
+    },
+    {
+        "pergunta": "Quem escreveu 'Dom Quixote'?",
+        "resposta": "Miguel de Cervantes",
+        "dica": "O autor é espanhol"
+    },
+    {
+        "pergunta": "Qual é a fórmula química da água?",
+        "resposta": "H2O",
+        "dica": "Dois átomos de hidrogênio e um de oxigênio"
+    },
+    {
+        "pergunta": "Qual é o elemento químico de símbolo 'O'?",
+        "resposta": "Oxigênio",
+        "dica": "É essencial para a respiração"
+    },
+    {
+        "pergunta": "Em que ano o homem pisou na Lua pela primeira vez?",
+        "resposta": "1969",
+        "dica": "Foi durante a missão Apollo 11"
+    },
+    {
+        "pergunta": "Qual é o menor país do mundo?",
+        "resposta": "Vaticano",
+        "dica": "É a sede da Igreja Católica"
+    },
+    {
+        "pergunta": "Qual é o nome do rio mais longo do mundo?",
+        "resposta": "Nilo",
+        "dica": "Ele está localizado na África"
+    },
+    {
+        "pergunta": "Quem pintou a Mona Lisa?",
+        "resposta": "Leonardo da Vinci",
+        "dica": "O pintor também era um cientista renascentista"
+    },
+    {
+        "pergunta": "Qual é o maior oceano da Terra?",
+        "resposta": "Oceano Pacífico",
+        "dica": "Cobre mais de 30% da superfície da Terra"
+    },
+    {
+        "pergunta": "Qual é o país com a maior população do mundo?",
+        "resposta": "China",
+        "dica": "Tem mais de 1 bilhão de habitantes"
+    },
+    {
+        "pergunta": "Qual é a montanha mais alta do mundo?",
+        "resposta": "Monte Everest",
+        "dica": "Está localizada na cordilheira do Himalaia"
+    },
+    {
+        "pergunta": "Qual é o continente que abrange o maior número de países?",
+        "resposta": "África",
+        "dica": "Tem 54 países"
+    },
+    {
+        "pergunta": "Quem foi o primeiro presidente dos Estados Unidos?",
+        "resposta": "George Washington",
+        "dica": "Ele é conhecido como o 'Pai da Pátria'"
+    },
+    {
+        "pergunta": "Qual é a língua mais falada no mundo?",
+        "resposta": "Mandarim",
+        "dica": "É o idioma oficial da China"
+    }
+]
